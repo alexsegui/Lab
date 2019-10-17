@@ -21,6 +21,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.4em;}
 .inline > li:last-child{margin-right:0;}
 .borderedbox{border:1px solid;}
 .bgded{background:top center no-repeat; background-size:cover;}
+.bgdedo{background:top center no-repeat; background-size:cover;}
 .overlay{display:block; width:100%; height:auto;}
 .btn{display:inline-block; padding:6px 12px; border:1px solid; font-size:.85rem; line-height:normal; text-transform:uppercase;}
 
