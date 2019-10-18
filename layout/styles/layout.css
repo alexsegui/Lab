@@ -256,7 +256,7 @@ a{color:#8ABA56;}
 
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
-.overlay{background-color:rgba(0,0,0,.6);}
+.overlay{background-color:rgba(0,0,0,0.6);}
 .btn{border-color:#8ABA56;}
 .btn:hover{color:#FFFFFF; background-color:#8ABA56;}
 
@@ -467,4 +467,7 @@ img.bg {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-
+img {
+    max-width: 100%;
+    height:auto;
+}
