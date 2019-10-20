@@ -6,6 +6,7 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 --> 
+<?php session_start(); ?>
 <html>
 <head>
 
@@ -17,6 +18,11 @@ Licence URI: https://www.os-templates.com/template-terms
 </head>
 <body id="top">
 
+<?php 
+    $txt = $_REQUEST['avat'];
+    $GLOBALS['avat'] = preg_replace("/[^0-9]/", "", $txt);
+    $_SESSION['avat']  = $avat;
+?>
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
   
@@ -34,13 +40,16 @@ Licence URI: https://www.os-templates.com/template-terms
   <div class="overlay">
     <div id="intro" class="clear"> 
       <!-- ################################################################################################ -->
-      <article class="one_third first">
+    <article class="one_third first">
+        <ul>
+         <?php         
+            echo "<img src = images/avatar/" . $avat . ".png align=right>"?>
+        </ul>            
+      </article>
+      <article class="one_third ">
         <h3 class="heading">Entrar </h3>
          <form action="/passwd_page.php" method="post">
           <ul class="nospace">
-                Nom Usuari:<br>
-                 <input type="text" name="name" value="El meu nom">
-                    <br>
                 Contrasenya:<br>
                 <input type="text" name="passwd" value="Alex">
                    <br><br>

@@ -6,6 +6,7 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 --> 
+<?php session_start(); ?>
 <html>
 <head>
 
@@ -22,10 +23,9 @@ Licence URI: https://www.os-templates.com/template-terms
 <?php
 // definim variables i les inicialitzaem a buit
 
-$name = $passwd  = "";
+$avat = $passwd  = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
- $name = test_input($_POST["name"]);
  $passwd = test_input($_POST["passwd"]);
 }
    
@@ -39,16 +39,18 @@ function test_input($data) {
 $servername = "localhost";
 $username = "web";
 $password = "web";
+$Dbname = "web";
 
 // Create connection
-$conn = mysqli_connect($servername, $username, $password);
+$conn = mysqli_connect($servername, $username, $password,$Dbname );
  // Check connection
      if (!$conn) {
           die("Connection failed: " . mysqli_connect_error());
                         }
-      header ("Location: /index.html");
-    
-
+     // header ("Location: /index.html");
+     $sql = "SELECT * FROM usuaris WHERE ninot = " . S_SESSION['avat']
+// comprovar els resultats i si hi ha un registre 
+         // es redirefeix a la pagina principal
 
 ?>
 <!-- ################################################################################################ -->

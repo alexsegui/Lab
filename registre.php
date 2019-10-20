@@ -35,7 +35,7 @@ Licence URI: https://www.os-templates.com/template-terms
   </header>
 </div>
 
-<!-- ######################<img src = "images/avatar/"<?php  //echo('7');?>".png" align="right">####################### -->
+<!-- ############################################################################################################ -->
 <div class="wrapper row2 bgded" style="background-image:url('images/SceneRegistre.jpg');">
   <div class="overlay">
     <div id="intro" class="clear"> 
