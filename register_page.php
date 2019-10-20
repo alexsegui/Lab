@@ -56,9 +56,10 @@ $conn = mysqli_connect($servername, $username, $password, $Dbname);
      if (!$conn) {
           die("Connection failed: " . mysqli_connect_error());
     }
-    $sql = "INSERT INTO usuaris (nom, passw, ninot, grup) VALUES ('$name', '$passwd', $avatar, $grup)";
+    $sql = "INSERT INTO usuaris (nom, passw, ninot, grup) VALUES ('$name', '$passwd', $avatar, '$grup')";
     if (mysqli_query($conn, $sql)) {
-        echo "New record created successfully";
+        echo "T´has registrat. Ara ja pots entrar";
+		header ("Location: /index.html");
     } else {
         echo "Error: " . $sql . "<br>" . mysqli_error($conn);
     }

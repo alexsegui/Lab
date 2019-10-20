@@ -57,7 +57,11 @@ Licence URI: https://www.os-templates.com/template-terms
                 <input type="text" name="passwd" value="La meva contrasenya">
                     <br>
                 Grup:<br>
-                 <input type="text" name="grup" value="El meu nom">
+                  <select name="grup">
+					<option value="dam">DAM</option>
+					<option value="mep">MEP</option>
+					<option value="mei">MEI</option>
+				  </select>
                     <br>
                    <br><br>
                 <input type="submit" value="Entrar">
