@@ -6,9 +6,9 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 --> 
+<?php session_start(); ?>
 <html>
 <head>
-
 
 <title>LABORATORI</title>
 <meta charset="utf-8">
@@ -16,15 +16,20 @@ Licence URI: https://www.os-templates.com/template-terms
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
+<?php 
+   $avat =  $_SESSION['avat'];
+?>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="clear"> 
-    <!-- ################################################################################################ -->
+    <!-- #######################<img src = images/avatar/17.png style="width:20%">################### -->
     <div class="fl_left">
-         Usuari/a: 
-          <img src = images/avatar/17.png style="width:20%">
+         Usuari/a:  
+		<?php         
+            echo "<img src = images/avatar/" . $avat . ".png style=width:20%>"?>
+		  
       <!--<ul class="nospace linklist">
         <li><a href="#">Link 1</a></li>
         <li><a href="#">Link 2</a></li>
