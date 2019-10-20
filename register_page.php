@@ -30,7 +30,7 @@ $name = $passwd = $avatar = $grup  =  "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
  $name = test_input($_POST["name"]);
  $passwd = test_input($_POST["passwd"]);
- $avatar = test_input($_POST["avatar"]);
+ $avatar = $GLOBALS['avat'];
  $grup = test_input($_POST["grup"]);
 }
 

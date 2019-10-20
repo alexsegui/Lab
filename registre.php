@@ -17,6 +17,10 @@ Licence URI: https://www.os-templates.com/template-terms
 </head>
 <body id="top">
 
+<?php 
+    $txt = $_REQUEST['avat'];
+    $GLOBALS['avat'] = preg_replace("/[^0-9]/", "", $txt); 
+?>
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
   
@@ -29,12 +33,18 @@ Licence URI: https://www.os-templates.com/template-terms
   </header>
 </div>
 
-<!-- ################################################################################################ -->
+<!-- ######################<img src = "images/avatar/"<?php  //echo('7');?>".png" align="right">####################### -->
 <div class="wrapper row2 bgded" style="background-image:url('images/SceneRegistre.jpg');">
   <div class="overlay">
     <div id="intro" class="clear"> 
       <!-- ################################################################################################ -->
       <article class="one_third first">
+        <ul>
+         <?php         
+            echo "<img src = images/avatar/" . $avat . ".png align=right>"?>
+        </ul>            
+      </article>
+      <article class="one_third ">
         <h3 class="heading">Entrar </h3>
          <form action="/register_page.php" method="post">
           <ul class="nospace">
@@ -43,9 +53,6 @@ Licence URI: https://www.os-templates.com/template-terms
                     <br>
                 Contrasenya:<br>
                 <input type="text" name="passwd" value="La meva contrasenya">
-                    <br>
-                Avatar:<br>
-                 <input type="text" name="avatar" value="El meu nom">
                     <br>
                 Grup:<br>
                  <input type="text" name="grup" value="El meu nom">
