@@ -6,6 +6,7 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 --> 
+<?php session_start(); ?>
 <html>
 <head>
 
@@ -19,7 +20,8 @@ Licence URI: https://www.os-templates.com/template-terms
 
 <?php 
     $txt = $_REQUEST['avat'];
-    $GLOBALS['avat'] = preg_replace("/[^0-9]/", "", $txt); 
+    $GLOBALS['avat'] = preg_replace("/[^0-9]/", "", $txt);
+    $_SESSION['avat']  = $avat;
 ?>
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
