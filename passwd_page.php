@@ -40,17 +40,31 @@ $servername = "localhost";
 $username = "web";
 $password = "web";
 $Dbname = "web";
-
+$avat = $_SESSION['avat'];    
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,$Dbname );
  // Check connection
-     if (!$conn) {
-          die("Connection failed: " . mysqli_connect_error());
-                        }
-     // header ("Location: /index.html");
-     $sql = "SELECT * FROM usuaris WHERE ninot = " . S_SESSION['avat']
-// comprovar els resultats i si hi ha un registre 
-         // es redirefeix a la pagina principal
+ if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+  }
+  $sql = "SELECT * FROM usuaris WHERE ninot = $avat"; 
+// comprovar els resultats i si hi ha un registre  es redirefeix a la pagina principal
+ $result = mysqli_query($conn, $sql);
+ if (mysqli_num_rows($result) > 0) {
+    // Si existeix l'usuari comprovem contrasenya
+     $row = mysqli_fetch_assoc($result);
+     if ($row["passw"] == $passwd) {
+         header ("Location: /index.php"); 
+     } else {
+         header ("Location: /index.html");
+     }
+  
+    }
+ else {
+     header ("Location: /index.html"); // sino l'enviem a la primera plana
+    }
+
+mysqli_close($conn);
 
 ?>
 <!-- ################################################################################################ -->
@@ -77,7 +91,6 @@ $conn = mysqli_connect($servername, $username, $password,$Dbname );
             echo "<li>El nom és "; 
             echo $_POST["name"];
             echo "</li>";
-
             ?>
             
           <li>adipis cing ornare</li>
