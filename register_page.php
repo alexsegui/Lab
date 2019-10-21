@@ -61,7 +61,7 @@ $conn = mysqli_connect($servername, $username, $password, $Dbname);
         echo "T´has registrat. Ara ja pots entrar";
 		header ("Location: /index.html");
     } else {
-        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+        echo "Error: " .  mysqli_error($conn);
     }
 mysqli_close($conn);
 ?>
@@ -84,18 +84,18 @@ mysqli_close($conn);
     <div id="intro" class="clear"> 
       <!-- ################################################################################################ -->
       <article class="one_third first">
-        <h3 class="heading">Primer bloc d'idees </h3>
+        <h3 class="heading">NO ET POTS REGISTRAR </h3>
         <ul class="nospace">
           <?php
-            echo "<li>El nom és "; 
+            echo "<li>"; 
             echo $_POST["name"];
-            echo "</li>";
+            echo ", hi ha un problema amb la base de dades</li>";
             ?>
             
-          <li>adipis cing ornare</li>
-          <li>donec luctus convallis rhoncus</li>
+          <li>Aquesta icona ja està agafada</li>
+          <li>N'has de triar una altra</li>
         </ul>
-        <p class="link"><a href="#">Read More &raquo;</a></p>
+        <p class="link"><a href="/avatar.html">Torna-hi ! &raquo;</a></p>
       </article>
       
       <!-- ################################################################################################ -->
