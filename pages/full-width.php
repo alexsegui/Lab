@@ -6,6 +6,7 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 -->
+<?php session_start(); ?>
 <html>
 <head>
 <!-- ################################## xat #################  -->
@@ -24,6 +25,9 @@ Licence URI: https://www.os-templates.com/template-terms
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
+<?php 
+   $avat =  $_SESSION['avat'];
+?>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -31,6 +35,9 @@ Licence URI: https://www.os-templates.com/template-terms
   <div id="topbar" class="clear"> 
     <!-- ################################################################################################ -->
     <div class="fl_left">
+		 Usuari/a:  
+		<?php         
+            echo "<img src = /images/avatar/" . $avat . ".png style=width:20%>"?>
 	<!-- <ul class="nospace linklist">
         <li><a href="#">Link 1</a></li>
         <li><a href="#">Link 2</a></li>
@@ -54,37 +61,39 @@ Licence URI: https://www.os-templates.com/template-terms
 <div class="wrapper row1">
   <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
-    <div id="logo" class="fl_left">
-      <h1><a href="../index.html">LABORATORI</a></h1>
-    </div>
+     <nav id="mainav" class="fl_left">
+      <img src = "/images/UDGPalamos.gif" style="width:20%"> 
+    </nav>
+	  
+	
     <!-- ################################################################################################ -->
     <nav id="mainav" class="fl_right">
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
-        <li><a href="/pages/gallery.html">Galeria </a></li>  
+        <li><a href="/pages/gallery.php">Galeria </a></li>  
         <li><a class="drop" href="#">DAM</a>
           <ul>
-            <li><a href="dam.html">plantilla per alumne</a></li>
+            <li><a href="/dam.php">plantilla per alumne</a></li>
            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
             <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
           </ul>
         </li>
-        <!--<li><a class="drop" href="#">Dropdown</a>
+		<li><a class="drop" href="#">MEP/MEI</a>
           <ul>
-            <li><a href="#">Level 2</a></li>
-            <li><a class="drop" href="#">Level 2 + Drop</a>
-              <ul>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-              </ul>
-            </li>
+            <li><a href="#">plantilla per alumne</a></li>
+           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
+            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
+            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
+            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
           </ul>
-        </li>-->
-        <li><a href="/pages/full-width.html">XAT </a></li>
-        <li><a href="#">Enllaç </a></li>
+        </li>       
+        <li><a href="/pages/full-width.php">XAT </a></li>
       </ul>
+    </nav>
+	<nav id="mainav" class="fl_center">
+      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
     </nav>
     <!-- ################################################################################################ -->
   </header>

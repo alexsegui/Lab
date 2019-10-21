@@ -6,14 +6,18 @@ Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 -->
+<?php session_start(); ?>
 <html>
 <head>
-<title>MEC-WEB</title>
+<title>ELLABORATOR</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
+<?php 
+   $avat =  $_SESSION['avat'];
+?>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -21,6 +25,9 @@ Licence URI: https://www.os-templates.com/template-terms
   <div id="topbar" class="clear"> 
     <!-- ################################################################################################ -->
    <div class="fl_left">
+	    Usuari/a:  
+		<?php         
+            echo "<img src = /images/avatar/" . $avat . ".png style=width:20%>"?>
        <!-- 
       <ul class="nospace linklist">
         <li><a href="#">Link 1</a></li>
@@ -53,10 +60,10 @@ Licence URI: https://www.os-templates.com/template-terms
     <nav id="mainav" class="fl_right">
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
-        <li><a href="/pages/gallery.html">Galeria </a></li>  
+        <li><a href="/pages/gallery.php">Galeria </a></li>  
         <li><a class="drop" href="#">DAM</a>
           <ul>
-            <li><a href="/dam.html">plantilla per alumne</a></li>
+            <li><a href="/dam.php">plantilla per alumne</a></li>
            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
@@ -83,7 +90,7 @@ Licence URI: https://www.os-templates.com/template-terms
             <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
           </ul>
         </li>
-        <li><a href="pages/full-width.html">XAT </a></li>
+        <li><a href="/pages/full-width.php">XAT </a></li>
       </ul>
     </nav>
     <nav id="mainav" class="fl_center">
