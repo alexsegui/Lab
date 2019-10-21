@@ -1,7 +1,2 @@
 Coses per canviar
 -----------------
-- canviar els noms de les planes principals
-avatar.html i avatar2.html2 tenen el menu a la part superior (i segurament s'ha de treure pq encara no han entrat)
-- login.php i registre.php canviar format
-- agegir a index.html icona de l'usuari 
-- 
