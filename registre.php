@@ -51,10 +51,10 @@ Licence URI: https://www.os-templates.com/template-terms
          <form action="/register_page.php" method="post">
           <ul class="nospace">
                 Nom Usuari:<br>
-                 <input type="text" name="name" value="El meu nom">
+                 <input type="text" name="name" value="">
                     <br>
                 Contrasenya:<br>
-                <input type="text" name="passwd" value="La meva contrasenya">
+                <input type="password" name="passwd" value="">
                     <br>
                 Grup:<br>
                   <select name="grup">

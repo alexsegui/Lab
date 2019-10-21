@@ -51,7 +51,7 @@ Licence URI: https://www.os-templates.com/template-terms
          <form action="/passwd_page.php" method="post">
           <ul class="nospace">
                 Contrasenya:<br>
-                <input type="text" name="passwd" value="Alex">
+                <input type="password" name="passwd" value="">
                    <br><br>
                 <input type="submit" value="Entrar">
               <br><br>
