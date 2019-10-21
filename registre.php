@@ -41,11 +41,9 @@ Licence URI: https://www.os-templates.com/template-terms
     <div id="intro" class="clear"> 
       <!-- ################################################################################################ -->
       <article class="one_third first">
-        <ul>
-         <?php         
+        <?php         
             echo "<img src = images/avatar/" . $avat . ".png align=right>"?>
-        </ul>            
-      </article>
+       </article>
       <article class="one_third ">
         <h3 class="heading">Entrar </h3>
          <form action="/register_page.php" method="post">
@@ -58,6 +56,7 @@ Licence URI: https://www.os-templates.com/template-terms
                     <br>
                 Grup:<br>
                   <select name="grup">
+					<option value="pro">PRO</option>
 					<option value="dam">DAM</option>
 					<option value="mep">MEP</option>
 					<option value="mei">MEI</option>
