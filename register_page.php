@@ -58,11 +58,15 @@ $conn = mysqli_connect($servername, $username, $password, $Dbname);
     }
     $sql = "INSERT INTO usuaris (nom, passw, ninot, grup) VALUES ('$name', '$passwd', $avatar, '$grup')";
     if (mysqli_query($conn, $sql)) {
-        echo "T´has registrat. Ara ja pots entrar";
-		header ("Location: /index.html");
+		$sql = "UPDATE avatar SET stat=TRUE WHERE cod=" . $avatar;
+		if (mysqli_query($conn, $sql)) {
+        	echo "T´has registrat. Ara ja pots entrar";
+			header ("Location: /index.html");
+		}
     } else {
         echo "Error: " .  mysqli_error($conn);
     }
+	
 mysqli_close($conn);
 ?>
     

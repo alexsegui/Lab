@@ -32,4 +32,8 @@ USE WEB;
 
 
 // Creem la taula USUARIS amb els camps
-CREATE TABLE usuaris (nom varchar(15) not null, passw varchar(30) not null, ninot tinyint primary key, grup vsrchsr(3));
+CREATE TABLE usuaris (nom varchar(15) not null, passw varchar(30) not null, ninot tinyint primary key, grup varchar(3));
+
+
+// Crear la taula AVATAR 
+CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami varchar(30) not null, stat bit not null)
