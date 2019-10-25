@@ -1,13 +1,8 @@
 <?php
 
-// phpfreechat version
-$GLOBALS['pfc_version'] = '2.1.0';
+//session_start();
+//
 
-// This is the time of inactivity to wait before considering a user is disconnected (in milliseconds).
-// A user is inactive only if s/he closed his/her chat window. A user with an open chat window is not 
-// inactive because s/he sends each refresh_delay an HTTP request.
-// (Default value: 35 seconds)
-$GLOBALS['pfc_timeout'] = 35;
 
 // Gives channel operator rights to the first connected user
 // (Default value: true)
@@ -20,11 +15,12 @@ $GLOBALS['pfc_hooks'] = array();
 // Can be used to automaticaly login to the chat 
 // with your own auth system (forum, ldap, database, sso ...)
 // example:
-// $GLOBALS['pfc_hooks']['pfc.before.auth'][5] = function ($app, $req, $res) {
-//   return function () use ($app, $req, $res) {
-//     return 'kerphi'; // TODO: replace this code with a real example
-//   };
-// };
+$GLOBALS['pfc_hooks']['pfc.before.auth'][5] = function ($app, $req, $res) {
+   return function () use ($app, $req, $res) {
+	  $nom = $_SESSION['nom'];
+     return $nom; // 
+   };
+ };
 //
 //  $GLOBALS['pfc_hooks']['pfc_before.auth'][1] = 'alex';
 
@@ -62,10 +58,3 @@ $GLOBALS['pfc_hooks'] = array();
 //       return false;
 //     }
 //   };
-// };
-
-// include the local config if defined
-$clocal = dirname(__FILE__).'/config.local.php';
-if (file_exists($clocal)) {
-  include $clocal;
-}

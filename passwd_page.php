@@ -23,7 +23,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <?php
 // definim variables i les inicialitzaem a buit
 
-$avat = $passwd  = "";
+$avat = $passwd  = $nom = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
  $passwd = test_input($_POST["passwd"]);
@@ -54,6 +54,8 @@ $conn = mysqli_connect($servername, $username, $password,$Dbname );
     // Si existeix l'usuari comprovem contrasenya
      $row = mysqli_fetch_assoc($result);
      if ($row["passw"] == $passwd) {
+		 $nom = $row["nom"];
+		 $_SESSION['nom']=$nom ;
          header ("Location: /index.php"); 
      } else {
          header ("Location: /index.html");
