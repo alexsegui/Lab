@@ -99,7 +99,7 @@ mysqli_close($conn);
           <li>Aquesta icona ja està agafada</li>
           <li>N'has de triar una altra</li>
         </ul>
-        <p class="link"><a href="/avatar.html">Torna-hi ! &raquo;</a></p>
+        <p class="link"><a href="/avatar.php">Torna-hi ! &raquo;</a></p>
       </article>
       
       <!-- ################################################################################################ -->

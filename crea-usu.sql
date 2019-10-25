@@ -12,7 +12,7 @@ CREATE USER 'web'@'localhost' IDENTIFIED BY 'web';
 
 
 // Donem permisos a l´usuari sobre la bbdd
-GRANT ALL PRIVILEGES ON web. * TO 'web'@'localhost';
+GRANT ALL PRIVILEGES ON web.* TO 'web'@'localhost';
 
 
 // Carreguem els permisos
@@ -36,4 +36,4 @@ CREATE TABLE usuaris (nom varchar(15) not null, passw varchar(30) not null, nino
 
 
 // Crear la taula AVATAR 
-CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami varchar(30) not null, stat bit not null)
+CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami varchar(30) not null, stat bit not null);
