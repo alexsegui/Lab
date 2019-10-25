@@ -37,3 +37,13 @@ CREATE TABLE usuaris (nom varchar(15) not null, passw varchar(30) not null, nino
 
 // Crear la taula AVATAR 
 CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami varchar(30) not null, stat bit not null);
+
+// Canviar valors per posar les taules d inici
+
+DELETE * FROM usuaris;
+UPDATE avatar SET stat=false;
+
+//Copia de seguretat i restauració  de bbdd 
+
+mysqldump -u web -p --opt web > bkp-db-web.sql
+mysql -u web -p web < bkp-db-web.sql
