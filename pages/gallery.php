@@ -116,23 +116,23 @@ Licence URI: https://www.os-templates.com/template-terms
         <figure>
           <header class="heading">Exemples de coses que podem fer</header>
           <ul class="nospace clear">
-            <li class="one_quarter first"><a href="http:../billar/billar.html"><img src="../images/demo/gallery/billar.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../rpg/index.html"><img src="../images/demo/gallery/rpg.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../blocs/index.html"><img src="../images/demo/gallery/blocs.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../tictactoe/index.html"><img src="../images/demo/gallery/tictactoe.png" alt=""></a></li>
-            <li class="one_quarter first"><a href="http:../flappy/index.html"><img src="../images/demo/gallery/flappy.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../space/index.html"><img src="../images/demo/gallery/space.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../ufo/index.html"><img src="../images/demo/gallery/ufo.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../towerdefense/index.html"><img src="../images/demo/gallery/towerdef.png" alt=""></a></li>
-            <li class="one_quarter first"><a href="http:../doodlejump/index.html"><img src="../images/demo/gallery/doodlejump.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../rtsnavmesh/index.html"><img src="../images/demo/gallery/rtsnavmesh.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../survivalshooter/index.html"><img src="../images/demo/gallery/survival.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../lowpoly/index.html"><img src="../images/demo/gallery/lowpoly.png" alt=""></a></li>
-            <li class="one_quarter first"><a href="http:../gatjulia/index.html"><img src="../images/demo/gallery/gatjulia.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../techinv/index.html"><img src="../images/demo/gallery/techinv.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../barbar/index.html"><img src="../images/demo/gallery/barbar.png" alt=""></a></li>
-            <li class="one_quarter"><a href="http:../lennys/index.html"><img src="../images/demo/gallery/lenny.png" alt=""></a></li>
-            <li class="one_quarter first"><a href="http:../tanks/index.html"><img src="../images/demo/gallery/tanks.png" alt=""></a></li>
+            <li class="one_quarter first"><a href="http:../webGL/billar/billar.html"><img src="../images/demo/gallery/billar.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/rpg/index.html"><img src="../images/demo/gallery/rpg.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/blocs/index.html"><img src="../images/demo/gallery/blocs.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/tictactoe/index.html"><img src="../images/demo/gallery/tictactoe.png" alt=""></a></li>
+            <li class="one_quarter first"><a href="http:../webGL/flappy/index.html"><img src="../images/demo/gallery/flappy.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/space/index.html"><img src="../images/demo/gallery/space.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/ufo/index.html"><img src="../images/demo/gallery/ufo.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/towerdefense/index.html"><img src="../images/demo/gallery/towerdef.png" alt=""></a></li>
+            <li class="one_quarter first"><a href="http:../webGL/doodlejump/index.html"><img src="../images/demo/gallery/doodlejump.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/rtsnavmesh/index.html"><img src="../images/demo/gallery/rtsnavmesh.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/survivalshooter/index.html"><img src="../images/demo/gallery/survival.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/lowpoly/index.html"><img src="../images/demo/gallery/lowpoly.png" alt=""></a></li>
+            <li class="one_quarter first"><a href="http:../webGL/gatjulia/index.html"><img src="../images/demo/gallery/gatjulia.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/techinv/index.html"><img src="../images/demo/gallery/techinv.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/barbar/index.html"><img src="../images/demo/gallery/barbar.png" alt=""></a></li>
+            <li class="one_quarter"><a href="http:../webGL/lennys/index.html"><img src="../images/demo/gallery/lenny.png" alt=""></a></li>
+            <li class="one_quarter first"><a href="http:../webGL/tanks/index.html"><img src="../images/demo/gallery/tanks.png" alt=""></a></li>
           </ul>
         </figure>
       </div>
