@@ -47,3 +47,5 @@ UPDATE avatar SET stat=false;
 
 mysqldump -u web -p --opt web > bkp-db-web.sql
 mysql -u web -p web < bkp-db-web.sql
+
+hola alex
