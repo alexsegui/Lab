@@ -12,14 +12,14 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- '''html    -->
     <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
     <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.0/client/themes/carbon/jquery.phpfreechat.min.css" />
-    <script src="/phpfreechat-2.1.0/client/jquery.phpfreechat.min.js" type="../Lab-master/text/javascript"></script>
+    <script src="/phpfreechat-2.1.0/client/jquery.phpfreechat.min.js" type="/text/javascript"></script>
 
 <!--  ################################ FI XAT ###################   -->
 
     <title>DAM</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link href="../Lab-master/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
 
@@ -53,16 +53,16 @@ Licence URI: https://www.os-templates.com/template-terms
         <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
             <nav id="mainav" class="fl_left">
-                <img src = "../Lab-master/images/UDGPalamos.gif" style="width:20%"> 
+                <img src = "/images/UDGPalamos.gif" style="width:20%"> 
             </nav>
     <!-- ################################################################################################ -->
             <nav id="mainav" class="fl_right">
                 <ul class="clear">
-                    <li class="active"><a href="../Lab-master/index.php">Inici</a></li>
-                    <li><a href="../Lab-master/pages/gallery.html">Galeria </a></li>  
+                    <li class="active"><a href="/index.php">Inici</a></li>
+                    <li><a href="/pages/gallery.php">Galeria </a></li>  
                     <li><a class="drop" href="#">DAM</a>
                         <ul>
-                            <li><a href="../Lab-master/dam.html">plantilla per alumne</a></li>
+                            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
                             <!-- <li><a href="pages/full-width.html">Full Width</a></li>
                             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
                             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
@@ -90,11 +90,11 @@ Licence URI: https://www.os-templates.com/template-terms
                             <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
                         </ul>
                     </li>
-                    <li><a href="../Lab-master/pages/full-width.html">XAT </a></li>
+                    <li><a href="/pages/full-width.php">XAT </a></li>
                 </ul>
             </nav>
             <nav id="mainav" class="fl_center">
-                <img src = "../Lab-master/textstyle/ElLaboratori.png" style="width:30%"> 
+                <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
             </nav>
     <!-- ################################################################################################ -->
         </header>
@@ -109,7 +109,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                     <a href="../demos/Eric/ProjecteUni/index.html">
-                        <img src= "../demos/images/JocCartesE.png" alt="">
+                        <img src= "/images/JocCartesE.png" alt="">
                     </a>
             </figure>
         </div>
@@ -142,7 +142,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                     <a href="../demos/Mingo/Build/Cars3D.exe">
-                        <img src="../demos/images/jocCotxesM.png" alt=" ">
+                        <img src="/images/jocCotxesM.png" alt=" ">
                     </a>
             </figure>
         </div>
@@ -177,7 +177,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                     <a href="../demos/Mingo/buildwgl/index.html">
-                        <img src="../demos/images/island.PNG" alt=" ">
+                        <img src="/images/island.PNG" alt=" ">
                     </a>
             </figure>
         </div>
@@ -215,7 +215,7 @@ Licence URI: https://www.os-templates.com/template-terms
             
             <figure>
                   <a href="../demos/Toni/demo_pc_toni/JocFinal.exe">
-                        <img src="../demos/images/jocCotxesT.png" alt="link">
+                        <img src="/images/jocCotxesT.png" alt="link">
                   </a>
             </figure>
         </div>
@@ -250,7 +250,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                     <a href="../demos/DaniM/Demo_damdmartinez/Videojuego_Edukatibo.exe">
-                        <img src="../demos/images/jocDaniM.png" alt=" ">
+                        <img src="/images/jocDaniM.png" alt=" ">
                     </a>
             </figure>
         </div>
@@ -283,7 +283,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                     <a href="../demos/Jocsan/Demo_Juego/Juego_Demo.exe">
-                        <img src="../demos/images/jocJocs.png" alt=" ">
+                        <img src="../images/jocJocs.png" alt=" ">
                     </a>
             </figure>
         </div>
@@ -318,7 +318,7 @@ Licence URI: https://www.os-templates.com/template-terms
             <figure>
                 <!--<li>-->
                     <a href="../demos/Ivan/Juego_Ivan/Unknown_Planet.exe">
-                        <img src="../demos/images/jocIvan.png" alt=" ">
+                        <img src="../images/jocIvan.png" alt=" ">
                     </a>
                 <!--</li>-->
             </figure>
@@ -352,7 +352,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fila row2 bgded">
         <div class="col-4">
             <figure>
-                <img src="../demos/images/fotoRA.jpg" alt=" ">
+                <img src="../images/fotoRA.jpg" alt=" ">
                     <!--<a href="../demos/">
                         <img src="../demos/images/jocJocs.png" alt=" ">
                     </a>-->
@@ -388,8 +388,8 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fila row2 bgded">
         <div class="col-4">
             <figure>
-                    <a href="../demos/Alex//Demo_SunnyLand/index.html">
-                        <img src="../demos/images/sunnyLand.png" alt=" ">
+                    <a href="../Alex//Demo_SunnyLand/index.html">
+                        <img src="/images/sunnyLand.png" alt=" ">
                     </a>
             </figure>
         </div>
@@ -420,7 +420,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <div class="col-4">
             <figure>
                 <a href="../demos/DaniA/001Joc/IndevBuild/SleepattheForest.exe">
-                    <img src="../demos/images/Imatge.png" alt=" ">
+                    <img src="../images/Imatge.png" alt=" ">
                  </a>
             </figure>
         </div>
@@ -449,8 +449,8 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fila row2 bgded" >
         <div class="col-4">  
             <figure>
-                    <a href="../demos/Arturo/Quiz_Arturo/index.html">
-                        <img src="../demos/images/QuizArturo.png" alt="">
+                    <a href="../Arturo/Quiz_Arturo/index.html">
+                        <img src="/images/QuizArturo.png" alt="">
                     </a>
             </figure>
         </div>

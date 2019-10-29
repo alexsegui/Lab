@@ -66,7 +66,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <li><a href="pages/gallery.php">Galeria </a></li>  
         <li><a class="drop" href="#">DAM</a>
           <ul>
-            <li><a href="dam.php">plantilla per alumne</a></li>
+            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
@@ -121,7 +121,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <ul class="nospace">
             <img src = "images/DAM.jpg">
         </ul>
-        <p class="link"><a href="dam.php">Benvinguts!!! &raquo;</a></p>
+        <p class="link"><a href="/pages/dam.php">Benvinguts!!! &raquo;</a></p>
       </article>
       <article class="one_quarter">
         <h3 class="heading">MEP/MEI</h3>

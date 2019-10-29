@@ -64,7 +64,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <li><a href="/pages/gallery.php">Galeria </a></li>  
         <li><a class="drop" href="#">DAM</a>
           <ul>
-            <li><a href="/dam.php">plantilla per alumne</a></li>
+            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
