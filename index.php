@@ -24,27 +24,30 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="clear"> 
-    <!-- #######################<img src = images/avatar/17.png style="width:20%">################### -->
     <div class="fl_left">
          Usuari/a:  
 		<?php         
             echo "<img src = images/avatar/" . $avat . ".png style=width:20%>"?>
-		  
-      <!--<ul class="nospace linklist">  -->
-        <a href="/sortir.php">-- Sortir --</a>
-      <!-- </ul>
-      <li><a href="#">Link 2</a></li>
-        <li><a href="#">Link 3</a></li>
-        <li><a href="#">Link 4</a></li>
-        <li><a href="#">Link 5</a></li>
-      </ul>-->
-    </div>
-    <div class="fl_right">
+		  <a href="/sortir.php">-- Sortir --</a>
+	</div>
+	<div class="fl_right">
       <ul class="nospace linklist">
         <li><i class="fa fa-phone"></i> 65 75 85 266</li>
-        <li><i class="fa fa-envelope-o"></i> asegui@xtec.cat</li>
+        <li><i class="fa fa-envelope-o"></i> jferna6@xtec.cat</li>
       </ul>
     </div>
+	 <br>
+	 <br>
+	<div class="fl_right">
+      <ul class="nospace linklist"> 
+        <li><a href="#">Comunicat</a></li>
+      <!--  <li><a href="#">Link 3</a></li>
+        <li><a href="#">Link 4</a></li>
+        <li><a href="#">Link 5</a></li>-->
+      </ul>
+    </div>
+	
+    
     <!-- ################################################################################################ -->
   </div>
 </div>
@@ -64,14 +67,14 @@ Licence URI: https://www.os-templates.com/template-terms
       <ul class="clear">
         <li class="active"><a href="index.php">Inici</a></li>
         <li><a href="pages/gallery.php">Galeria </a></li>  
-        <li><a class="drop" href="#">DAM</a>
-          <ul>
+        <li><a class="active" href="/pages/dam.php">DAM/SMX</a>
+        <!--  <ul>
             <li><a href="/pages/dam.php">plantilla per alumne</a></li>
-           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
+            <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
-          </ul>
+            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>
+          </ul>-->
         </li>
         <!--<li><a class="drop" href="#">Dropdown</a>
           <ul>

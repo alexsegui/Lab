@@ -42,7 +42,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fl_right">
       <ul class="nospace linklist">
         <li><i class="fa fa-phone"></i> 65 75 85 266</li>
-        <li><i class="fa fa-envelope-o"></i> asegui@xtec.cat</li>
+        <li><i class="fa fa-envelope-o"></i> jferna6@xtec.cat</li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -62,15 +62,16 @@ Licence URI: https://www.os-templates.com/template-terms
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
         <li><a href="/pages/gallery.php">Galeria </a></li>  
-        <li><a class="drop" href="#">DAM</a>
+		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
+     <!--    <li><a class="drop" href="#">DAM</a>
           <ul>
-            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
+           
            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
             <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
+            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>
           </ul>
-        </li>
+        </li> -->
         <!--<li><a class="drop" href="#">Dropdown</a>
           <ul>
             <li><a href="#">Level 2</a></li>
