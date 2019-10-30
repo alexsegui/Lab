@@ -56,7 +56,7 @@ Licence URI: https://www.os-templates.com/template-terms
                     <br>
                 Grup:<br>
                   <select name="grup">
-					<option value="pro">PRO</option>
+					<option value="pro">SMX</option>
 					<option value="dam">DAM</option>
 					<option value="mep">MEP</option>
 					<option value="mei">MEI</option>
