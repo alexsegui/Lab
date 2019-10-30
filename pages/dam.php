@@ -35,7 +35,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <div class="fl_left">
 		Usuari/a:  
 			<?php         
-				echo "<img src = images/avatar/" . $avat . ".png style=width:20%>"?>
+				echo "<img src = /images/avatar/" . $avat . ".png style=width:20%>"?>
                 <!-- 
                 <ul class="nospace linklist">
                     <li><a href="#">Link 1</a></li> -->
