@@ -398,7 +398,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fila row2 bgded">
         <div class="col-4">
             <figure>
-                    <a href="../Alex//Demo_SunnyLand/index.html">
+                    <a href="../demos/Alex//Demo_SunnyLand/index.html">
                         <img src="/images/sunnyLand.png" alt=" ">
                     </a>
             </figure>
@@ -408,7 +408,7 @@ Licence URI: https://www.os-templates.com/template-terms
             <article>
                 <h3 align="center">Joc de plataformes 2D</h3>
                 <p align = "justify">
-                    
+                     
                 </p>
             </article>
         </div>
@@ -459,7 +459,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fila row2 bgded" >
         <div class="col-4">  
             <figure>
-                    <a href="../Arturo/Quiz_Arturo/index.html">
+                    <a href="../demos/Arturo/Quiz_Arturo/index.html">
                         <img src="/images/QuizArturo.png" alt="">
                     </a>
             </figure>
