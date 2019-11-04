@@ -112,14 +112,22 @@ Licence URI: https://www.os-templates.com/template-terms
 <div class="wrapper row3">
 <!--  <main class="container clear"> -->
     <!-- main body -->
-    <!-- ################################################################################################ -->
-    <div class="overlay"> 
-     <div id="mychat"><a href="http://www.phpfreechat.net">Creating chat rooms everywhere - phpFreeChat</a></div>
-       <script type="text/javascript">
-           $('#mychat').phpfreechat({ serverUrl: '/phpfreechat-2.1.0/server' });
-       </script>
-     </div>  
-  <!--</main>  -->
+    <!-- ###############################      XAT        ############################################# -->
+ <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5dbe29b0154bf74666b734bd/1doqr46ea';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+	
+	
 </div>    
     
 <div class="wrapper row4">
@@ -137,8 +145,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <div class="wrapper row6">
   <div id="copyright" class="clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">CopyLLIURE &copy; 2020 - Tots els drets i les llibertats </p>
+    <p class="fl_right">Contactar amb la Força Intergalàctica Universal</p>
     <!-- ################################################################################################ -->
   </div>
 </div>

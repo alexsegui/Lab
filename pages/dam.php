@@ -11,10 +11,10 @@ Licence URI: https://www.os-templates.com/template-terms
 <head>
 <!-- ################################## xat #################  -->
 <!-- '''html    -->
-    <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.0/client/themes/carbon/jquery.phpfreechat.min.css" />
-    <script src="/phpfreechat-2.1.0/client/jquery.phpfreechat.min.js" type="/text/javascript"></script>
-
+   <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
+    
+  <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.0/client/themes/carbon/jquery.phpfreechat.min.css" />
+  <script src="/phpfreechat-2.1.0/client/jquery.phpfreechat.min.js" type="text/javascript"></script>
 <!--  ################################ FI XAT ###################   -->
 
     <title>DAM</title>
@@ -27,6 +27,19 @@ Licence URI: https://www.os-templates.com/template-terms
    $avat =  $_SESSION['avat'];
 ?>
 
+	<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5dbe29b0154bf74666b734bd/1doqr46ea';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
 <!-- ################################################################################################ -->
     <div class="wrapper row0"> 
@@ -70,34 +83,9 @@ Licence URI: https://www.os-templates.com/template-terms
                     <li class="active"><a href="/index.php">Inici</a></li>
                     <li><a href="/pages/gallery.php">Galeria </a></li>
 					 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-                <!--    <li><a class="drop" href="#">DAM</a>
-                        <ul>
-                            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
-                            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-                            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-                            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-                            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>
-                        </ul>
-                    </li> -->
-                    <!--<li><a class="drop" href="#">Dropdown</a>
-                        <ul>
-                            <li><a href="#">Level 2</a></li>
-                            <li><a class="drop" href="#">Level 2 + Drop</a>
-                            <ul>
-                                <li><a href="#">Level 3</a></li>
-                                <li><a href="#">Level 3</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-        </li>-->
-          
-                    <li><a class="drop" href="#">MEP/MEI</a>
+                      <li><a class="drop" href="#">MEP/MEI</a>
                         <ul>
                             <li><a href="#">plantilla per alumne</a></li>
-                            <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-                            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-                            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-                            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
                         </ul>
                     </li>
                     <li><a href="/pages/full-width.php">XAT </a></li>
@@ -113,10 +101,12 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ########################<div class="overlay">#################################################### 
 <div class="row2 bgded" style="background-image:url('images/SceneRegistre.jpg');">-->
  
-<!-- *******************************************************ERIC************************************************** -->
+	
+
+<!-- **************************************************  1 -  ERIC************************************************** -->
     
     <div class="fila row2 bgded" >
-        <div class="col-4">
+        <div class="col-6">
             <figure>
                     <a href="../demos/Eric/ProjecteUni/index.html">
                         <img src= "/images/JocCartesE.png" alt="">
@@ -124,7 +114,7 @@ Licence URI: https://www.os-templates.com/template-terms
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc de cartes</h3>
                 <ul>
@@ -133,31 +123,22 @@ Licence URI: https://www.os-templates.com/template-terms
                     </p>
                 </ul>
             </article>
-        </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('#mychat').phpfreechat({ serverUrl: '/phpfreechat-2.1.0/server'});
-            </script>
-        </div>
-    </div>
+        </div>        
+   </div>
 <!-- ......................................final ERIC........................................-->
     
-<!-- ***************************************************MINGO****************************************************** -->
+<!-- ***********************************************  2 - MINGO  **************************************************** -->
     
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
-                    <a href="../demos/Mingo/Build/Cars3D.exe">
+                    <a href="https://m15assets.s3.amazonaws.com/demos/JocMingoComprimit.zip">
                         <img src="/images/jocCotxesM.png" alt=" ">
                     </a>
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Simulador curses 3D</h3>
                 <ul>
@@ -169,30 +150,21 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: '/phpfreechat-2.1.0/server'});
-            </script>
-        </div>
-    </div>
+  </div>
     
-    
-    
+  <!-- ..........................................final MINGO................................................... -->   
+ <!-- ......................................... 3 --- ISLANDS................................................... --> 
     
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
-                    <a href="../demos/Mingo/buildwgl/index.html">
+                    <a href="../demos/island/buildwgl/index.html">
                         <img src="/images/island.PNG" alt=" ">
                     </a>
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Island 3d</h3>
                 <ul>
@@ -205,32 +177,22 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: '/phpfreechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
     
-<!-- ..........................................final MINGO................................................... -->
+
     
-<!-- ****************************************************TONI********************************************************** -->
+<!-- *********************************************** 4-TONI  COTXE   ************************************************** -->
     
     <div class="fila row2 bgded">
-        <div class="col-4">
-            
+        <div class="col-6">            
             <figure>
-                  <a href="../demos/Toni/demo_pc_toni/JocFinal.exe">
+                  <a href="https://m15assets.s3.amazonaws.com/demos/JocToniComprimit.zip">
                         <img src="/images/jocCotxesT.png" alt="link">
                   </a>
             </figure>
         </div>
 
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc de curses</h3>
                 <ul>
@@ -241,15 +203,6 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>        
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
     
 <!-- ..........................................final TONI................................................... -->
@@ -257,7 +210,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- **************************************************** DANI M********************************************************** -->
     
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
                     <a href="../demos/DaniM/Demo_damdmartinez/Videojuego_Edukatibo.exe">
                         <img src="/images/jocDaniM.png" alt=" ">
@@ -265,7 +218,7 @@ Licence URI: https://www.os-templates.com/template-terms
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">SPACE PLATFORM</h3>
                 <ul>
@@ -275,30 +228,21 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 <!-- ..........................................final DANI M................................................... -->
     
 <!-- ****************************************************JOCSAN********************************************************** -->
 
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
-                    <a href="../demos/Jocsan/Demo_Juego/Juego_Demo.exe">
+                    <a href="https://m15assets.s3.amazonaws.com/demos/JocJocsanComprimit.zip">
                         <img src="../images/jocJocs.png" alt=" ">
                     </a>
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc Primera Persona</h3>
                 <ul>
@@ -309,32 +253,23 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 
 <!-- ..........................................finalJOCSAN................................................... -->
     
 <!-- ****************************************************IVAN********************************************************** -->
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
                 <!--<li>-->
-                    <a href="../demos/Ivan/Juego_Ivan/Unknown_Planet.exe">
+                    <a href="https://m15assets.s3.amazonaws.com/demos/JocIvanComprimit.zip">
                         <img src="../images/jocIvan.png" alt=" ">
                     </a>
                 <!--</li>-->
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc Plataformes 2D</h3>
                 <ul>
@@ -344,15 +279,6 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 
 <!-- ..........................................IVAN................................................... -->
@@ -360,7 +286,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ****************************************************JULIA********************************************************** -->
 
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
                 <img src="../images/fotoRA.jpg" alt=" ">
                     <!--<a href="../demos/">
@@ -369,7 +295,7 @@ Licence URI: https://www.os-templates.com/template-terms
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc Realitat Augmentada</h3>
                 <ul>
@@ -381,30 +307,21 @@ Licence URI: https://www.os-templates.com/template-terms
                 </ul>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 <!-- ..........................................final JULIA................................................... -->
     
 <!--****************************************************ALEX**********************************************************-->
     
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
-                    <a href="../demos/Alex//Demo_SunnyLand/index.html">
+                    <a href="../demos/Alex/Demo_SunnyLand/index.html">
                         <img src="/images/sunnyLand.png" alt=" ">
                     </a>
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Joc de plataformes 2D</h3>
                 <p align = "justify">
@@ -412,22 +329,13 @@ Licence URI: https://www.os-templates.com/template-terms
                 </p>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 <!--..........................................final ALEX................................................... -->
 
 <!-- ****************************************************DANI A********************************************************** -->
 
     <div class="fila row2 bgded">
-        <div class="col-4">
+        <div class="col-6">
             <figure>
                 <a href="../demos/DaniA/001Joc/IndevBuild/SleepattheForest.exe">
                     <img src="../images/Imatge.png" alt=" ">
@@ -435,7 +343,7 @@ Licence URI: https://www.os-templates.com/template-terms
             </figure>
         </div>
         
-        <div class="col-4">
+        <div class="col-6">
             <article>
                 <h3 align="center">Sleep at the forest</h3>
                 <p align = "justify">
@@ -443,48 +351,52 @@ Licence URI: https://www.os-templates.com/template-terms
                 </p>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat">
-                <a href="http://www.phpfreechat.net">Mini Xat</a>
-            </div>
-            <script type="text/javascript">
-                $('mychat').phpfreechat({ serverUrl: 'ph`freechat-2.1.0/server'});
-            </script>
-        </div>
     </div>
 <!-- ..........................................final DANI A................................................... -->
 
-<!-- **************************************************ARTURO************************************************* -->
-    <div class="fila row2 bgded" >
-        <div class="col-4">  
+<!-- **************************************************** ALEX SMX *************************************************** -->
+
+    <div class="fila row2 bgded">
+        <div class="col-6">
             <figure>
-                    <a href="../demos/Arturo/Quiz_Arturo/index.html">
-                        <img src="/images/QuizArturo.png" alt="">
-                    </a>
+                <a href="../demos/AlexSmx/index.html">
+                    <img src="../images/jocAlexSmx.png" alt=" ">
+                 </a>
             </figure>
         </div>
         
-        <div class="col-4">   
-            <article >
-                <h3 align="center">Joc de preguntes</h3>
-                <ul > 
-                    <p align="justify">
-                        Mi objetivo es tener un panel donde el profesor coloque las preguntas que quiera con sus respectivas respuestas. Al iniciarse, el estudiante observar&aacute; si ha acertado o no y con un tiempo determinado. Al finalizar le indicar&aacute; cuantas ha acertado y si ha pasado la prueba.<br><br>
-                        Mi demo actual salen unas preguntas de prueba, pero sin puntuaci&oacute;n, solo para ver como ser&iacute;a.
-                    </p>
-                </ul>
+        <div class="col-6">
+            <article>
+                <h3 align="center">Joc Plataformes 2D</h3>
+                <p align = "justify">
+                    
+                </p>
             </article>
         </div>
-        
-        <div class="col-4">
-            <div id="mychat"><a href="http://www.phpfreechat.net">Mini Xat</a></div>
-            <script type="text/javascript">$('#mychat').phpfreechat({ serverUrl: '/phpfreechat-2.1.0/server' });</script>    
-        </div> 
     </div>
-    
-<!--</div>
- ########################<div class="overlay">#################################################### -->
+<!-- ..........................................final ALEX SMX................................................... -->
+
+	
+	
+<!-- *******************************************FRANCESC SMX *************************************************** -->
+
+ <div class="fila row2 bgded">
+        <div class="col-6">
+            <figure>
+                <a href="../demos/francesc/index.html"><img src="../images/Imatge.png" alt=" "></a>
+            </figure>
+        </div>
+        
+        <div class="col-6">
+            <article>
+                <h3 align="center">Joc Plataformes 2D</h3>
+                <p align = "justify">                    
+                </p>
+            </article>
+        </div>
+    </div> 
+<!-- ..........................................final FRANCESC SMX................................................... -->	
+ <!-- ########################<div class="overlay">#################################################### -->
 <!-- JAVASCRIPTS -->
     <script src="layout/scripts/jquery.min.js"></script> 
     <script src="layout/scripts/jquery.mobilemenu.js"></script>
