@@ -40,8 +40,8 @@ CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami 
 
 // Canviar valors per posar les taules d inici
 
-DELETE * FROM usuaris;
-UPDATE avatar SET stat=false;
+DELETE * FROM usuaris where ninot < 49;
+UPDATE avatar SET stat=false where cod < 49;
 
 //Copia de seguretat i restauració  de bbdd 
 
