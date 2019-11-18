@@ -4,7 +4,7 @@ Template Name: Abele
 Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
+Licence URI: https://www.os- templates.com/template-terms
 --> 
 <?php session_start(); ?>
 <html>
