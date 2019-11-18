@@ -73,23 +73,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <li class="active"><a href="/index.php">Inici</a></li>
         <li><a href="/pages/gallery.php">Galeria </a></li>
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-   <!--     <li><a class="drop" href="#">DAM</a>
-          <ul>
-            <li><a href="/pages/dam.php">plantilla per alumne</a></li>
-           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>
-          </ul>
-        </li> -->
-		<li><a class="drop" href="#">MEP/MEI</a>
-          <ul>
-            <li><a href="#">plantilla per alumne</a></li>
-           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
-          </ul>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
         </li>       
         <li><a href="/pages/full-width.php">XAT </a></li>
       </ul>
@@ -142,7 +126,7 @@ s0.parentNode.insertBefore(s1,s0);
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row6">
+<div class="wrapper row5">
   <div id="copyright" class="clear"> 
     <!-- ################################################################################################ -->
     <p class="fl_left">CopyLLIURE &copy; 2020 - Tots els drets i les llibertats </p>

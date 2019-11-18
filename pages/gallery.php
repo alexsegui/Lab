@@ -58,45 +58,18 @@ Licence URI: https://www.os-templates.com/template-terms
       <img src = "../images/UDGPalamos.gif" style="width:20%"> 
     </nav>
     <!-- ################################################################################################ -->
-    <nav id="mainav" class="fl_right">
+       <nav id="mainav" class="fl_right">
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
-        <li><a href="/pages/gallery.php">Galeria </a></li>  
+        <li><a href="/pages/gallery.php">Galeria </a></li>
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-     <!--    <li><a class="drop" href="#">DAM</a>
-          <ul>
-           
-           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>
-          </ul>
-        </li> -->
-        <!--<li><a class="drop" href="#">Dropdown</a>
-          <ul>
-            <li><a href="#">Level 2</a></li>
-            <li><a class="drop" href="#">Level 2 + Drop</a>
-              <ul>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>-->
-      <li><a class="drop" href="#">MEP/MEI</a>
-          <ul>
-            <li><a href="#">plantilla per alumne</a></li>
-           <!-- <li><a href="pages/full-width.html">Full Width</a></li>
-            <li><a href="pages/sidebar-left.html">Menú a l'esquerra</a></li>
-            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
-            <li><a href="pages/basic-grid.html">Gralla bàsica</a></li>-->
-          </ul>
-        </li>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
+        </li>       
         <li><a href="/pages/full-width.php">XAT </a></li>
       </ul>
     </nav>
-    <nav id="mainav" class="fl_center">
-      <img src = "..//textstyle/ElLaboratori.png" style="width:30%"> 
+	<nav id="mainav" class="fl_center">
+      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
     </nav>
     <!-- ################################################################################################ -->
   </header>

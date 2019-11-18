@@ -78,22 +78,19 @@ s0.parentNode.insertBefore(s1,s0);
                 <img src = "/images/UDGPalamos.gif" style="width:20%"> 
             </nav>
     <!-- ################################################################################################ -->
-            <nav id="mainav" class="fl_right">
-                <ul class="clear">
-                    <li class="active"><a href="/index.php">Inici</a></li>
-                    <li><a href="/pages/gallery.php">Galeria </a></li>
-					 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-                      <li><a class="drop" href="#">MEP/MEI</a>
-                        <ul>
-                            <li><a href="#">plantilla per alumne</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="/pages/full-width.php">XAT </a></li>
-                </ul>
-            </nav>
-            <nav id="mainav" class="fl_center">
-                <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
-            </nav>
+               <nav id="mainav" class="fl_right">
+      <ul class="clear">
+        <li class="active"><a href="/index.php">Inici</a></li>
+        <li><a href="/pages/gallery.php">Galeria </a></li>
+		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
+        </li>       
+        <li><a href="/pages/full-width.php">XAT </a></li>
+      </ul>
+    </nav>
+	<nav id="mainav" class="fl_center">
+      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
+    </nav>
     <!-- ################################################################################################ -->
         </header>
     </div>
