@@ -131,22 +131,21 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="fila row2 bgded">
         <div class="col-6">
             <figure>
-                    <a href="https://m15assets.s3.amazonaws.com/demos/JocMingoComprimit.zip">
-                        <img src="/images/jocCotxesM.png" alt=" ">
+                    <a href="../demos/Mingo/index.html">
+                        <img src="/images/demo/gallery/angry.png" alt=" ">
                     </a>
             </figure>
         </div>
         
         <div class="col-6">
             <article>
-                <h3 align="center">Simulador curses 3D</h3>
+                <h3 align="center">Joc Tipus angry birds</h3>
                 <ul>
                     <p align="justify">
 						Agent especial ******************** MINGO ******************** </p>
 					<p align="justify">
-                        El demo es un simulador de curses en 3D.
-                        Segons les preferencies es podra jugar sol o contra
-                        altra gent en mode online.
+                        El demo es un joc tipus angry bird que permet lleçar la bola contra objectes.
+                        
                     </p>
                 </ul>
             </article>
