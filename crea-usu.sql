@@ -48,4 +48,3 @@ UPDATE avatar SET stat=false where cod < 49;
 mysqldump -u web -p --opt web > bkp-db-web.sql
 mysql -u web -p web < bkp-db-web.sql
 
-hola alex
