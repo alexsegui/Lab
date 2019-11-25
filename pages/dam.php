@@ -235,7 +235,7 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="fila row2 bgded">
         <div class="col-6">
             <figure>
-                <a href="../demos/DaniM/Demo_damdmartinez/Videojuego_Edukatibo.exe">
+                <a href="https://m15assets.s3.amazonaws.com/demos/JocDaniMComprimit.zip">
                     <img src="/images/jocDaniM.png" alt=" ">
                  </a>
             </figure>
@@ -262,7 +262,7 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="fila row2 bgded">
         <div class="col-6">
             <figure>
-                    <a href="https://m15assets.s3.amazonaws.com/demos/JocJocsanComprimit.zip">
+                    <a href="https://m15assets.s3.amazonaws.com/demos/JocJocsanComprimit.exe">
                         <img src="../images/jocJocs.png" alt=" ">
                     </a>
             </figure>
@@ -438,7 +438,7 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="fila row2 bgded">
         <div class="col-6">
             <figure>
-                <a href="../demos/DaniA/001Joc/IndevBuild/SleepattheForest.exe">
+                <a href="https://m15assets.s3.amazonaws.com/demos/JocDaniAComprimit.zip">
                     <img src="../images/Imatge.png" alt=" ">
                  </a>
             </figure>
@@ -486,13 +486,13 @@ s0.parentNode.insertBefore(s1,s0);
  <div class="fila row2 bgded">
         <div class="col-6">
             <figure>
-                <a href="../demos/francesc/index.html"><img src="../images/Imatge.png" alt=" "></a>
+                <a href="../demos/arturo/index.html"><img src="../images/arturo.png" alt=" "></a>
             </figure>
         </div>
         
         <div class="col-6">
             <article>
-                <h3 align="center">Joc Plataformes 2D</h3>
+                <h3 align="center">Joc tipus QUIZ</h3>
                 <p align = "justify">                    
                 </p>
             </article>
