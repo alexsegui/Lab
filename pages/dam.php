@@ -93,7 +93,7 @@ s0.parentNode.insertBefore(s1,s0);
         <li><a href="/pages/gallery.php">Galeria</a></li>
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
 		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>       
-        <li><a href="#">Propostes</a></li>
+        <li><a href="/pages/propostes.php">Propostes</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
