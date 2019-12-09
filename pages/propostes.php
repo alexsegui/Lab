@@ -109,7 +109,7 @@ Licence URI: https://www.os-templates.com/template-terms
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src= "/images/demo/gallery/" alt="Imatge del joc de plantes."></figure>
+            	<figure><img src= "/images/BotanicGO.jpg" alt="Imatge del joc de plantes." style="width:550px; height: 550px"></figure>
         	</div>
         
         	<div class="col-6">
@@ -136,7 +136,7 @@ Licence URI: https://www.os-templates.com/template-terms
      	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/demo/gallery/" alt="Imatge del joc de la catapulta."></figure>
+            	<figure><img src="/images/catapulta.jpg" alt="Imatge del joc de la catapulta." style="width:550px; height: 550px"></figure>
         	</div>
         
         	<div class="col-6">
@@ -163,7 +163,7 @@ Licence URI: https://www.os-templates.com/template-terms
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/fotoIntinerari.png" alt="Imatge del joc d'itinerari Quimic."></figure>
+            	<figure><img src="/images/fotoIntinerari.png" alt="Imatge del joc d'itinerari Quimic." style="width:650px; height: 550px"></figure>
         	</div>
         
         	<div class="col-6">
