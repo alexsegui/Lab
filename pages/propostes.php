@@ -119,7 +119,10 @@ Licence URI: https://www.os-templates.com/template-terms
                     	<p align="justify"><em>****************************** FALTA ALUMNE ******************************</em></p>
 					 	<p align="justify">
 
-	                   		EXPLICACIO
+	                   		- Crea el teu herbolari digital. <br><br>
+	                   		- Fes una foto a les plantes de la teva zona, clasifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
+	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
+	                   		- Orientat d'educacio infantil on distingir planta, tiga, arrel, flor, fruites... passant per primaria on estudin els tipus de plantes fins a secundaria i universitat.
                     	
                     	</p>
                 	</ul>
@@ -143,10 +146,12 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Create and Destroy</h3>
                 	<ul>
-                    	<p align="justify"><em>****************************** FALTA PROFESSOR ******************************</em></p>
+                    	<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
 						<p align="justify">
 
-                        	EXPLICACIO
+							- Crea la teva ciutat i destrueix la del teu company.
+							- A mesura que se superin reptes, el profssor facilitara bjectes per a la batalla final.
+                        	- Orientat a infantil i primaria, i especificament a secundaria en el desenvlupament de la fisica.
                     	
                     	</p>
                 	</ul>
