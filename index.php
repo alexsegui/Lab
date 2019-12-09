@@ -41,12 +41,10 @@ Licence URI: https://www.os- templates.com/template-terms
 	<div class="fl_right">
       <ul class="nospace linklist"> 
         <li><a href="#">Comunicat</a></li>
-      <!--  <li><a href="#">Link 3</a></li>
-        <li><a href="#">Link 4</a></li>
-        <li><a href="#">Link 5</a></li>-->
+        <li><a href="/pages/full-width.php">Xat</a></li>
+        <li><a href="#">Tutorials</a></li>
       </ul>
     </div>
-	
     
     <!-- ################################################################################################ -->
   </div>
@@ -67,14 +65,13 @@ Licence URI: https://www.os- templates.com/template-terms
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
         <li><a href="/pages/gallery.php">Galeria </a></li>
-		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
-        </li>       
-        <li><a href="/pages/full-width.php">XAT </a></li>
+        <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>
+        <li><a href="#">Propostes</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
-      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
+      <img src = "/textstyle/ElLaboratori.png" style="width:258px;height:54px"> 
     </nav>
     <!-- ################################################################################################ -->
   </header>
@@ -268,10 +265,10 @@ Licence URI: https://www.os- templates.com/template-terms
       <h6 class="title">Enllaços directes</h6>
       <ul class="nospace linklist">
         <li><a href="index.html">Inici</a></li>
-        <li><a href="pages/gallery.html">Galeria</a></li>
-        <li><a href="dam.html">DAM</a></li>
-        <li><a href="#">MEP/MEI</a></li>
-        <li><a href="pages/full-width.html">Xat</a></li>
+        <li><a href="pages/gallery.php">Galeria</a></li>
+        <li><a href="pages/dam.php">DAM</a></li>
+        <li><a href="pages/mep.php">MEP/MEI</a></li>
+        <li><a href="pages/full-width.php">Propostes</a></li>
       </ul>
     </div>
     <div class="one_quarter">

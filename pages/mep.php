@@ -11,7 +11,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <head>
 <!-- ################################## xat #################  -->
 <!-- '''html    -->
-   <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
+  <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
     
   <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.0/client/themes/carbon/jquery.phpfreechat.min.css" />
   <script src="/phpfreechat-2.1.0/client/jquery.phpfreechat.min.js" type="text/javascript"></script>
@@ -40,10 +40,10 @@ Licence URI: https://www.os-templates.com/template-terms
                 <ul class="nospace linklist">
                     <li><a href="#">Link 1</a></li> -->
 		   <a href="/sortir.php">-- Sortir --</a>
-               <!--  <li><a href="#">Link 2</a></li>
-                    <li><a href="#">Link 3</a></li>
-                    <li><a href="#">Link 4</a></li>
-                    <li><a href="#">Link 5</a></li>
+                  <!-- <li><a href="#">Link 2</a></li>
+                  <li><a href="#">Link 3</a></li>
+                  <li><a href="#">Link 4</a></li>
+                <!--    <li><a href="#">Link 5</a></li>
                 </ul>
                 -->
             </div>
@@ -52,6 +52,15 @@ Licence URI: https://www.os-templates.com/template-terms
                     <li><i class="fa fa-phone"></i> 65 75 85 266</li>
                     <li><i class="fa fa-envelope-o"></i> jferna6@xtec.cat</li>
                 </ul>
+            </div>
+            <br>
+	        <br>
+	       <div class="fl_right">
+            <ul class="nospace linklist"> 
+                <li><a href="#">Comunicat</a></li>
+                <li><a href="/pages/full-width.php">Xat</a></li>
+                <li><a href="#">Tutorials</a></li>
+            </ul>
             </div>
     <!-- ################################################################################################ -->
         </div>
@@ -70,13 +79,12 @@ Licence URI: https://www.os-templates.com/template-terms
         <li class="active"><a href="/index.php">Inici</a></li>
         <li><a href="/pages/gallery.php">Galeria </a></li>
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
-        </li>       
-        <li><a href="/pages/full-width.php">XAT </a></li>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>       
+        <li><a href="#">Propostes</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
-      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
+      <img src = "/textstyle/ElLaboratori.png" style="width:258px;height:54px"> 
     </nav>
     <!-- ################################################################################################ -->
         </header>

@@ -53,10 +53,10 @@ s0.parentNode.insertBefore(s1,s0);
                 <ul class="nospace linklist">
                     <li><a href="#">Link 1</a></li> -->
 		   <a href="/sortir.php">-- Sortir --</a>
-               <!--  <li><a href="#">Link 2</a></li>
+                    <!--<li><a href="#">Link 2</a></li>
                     <li><a href="#">Link 3</a></li>
                     <li><a href="#">Link 4</a></li>
-                    <li><a href="#">Link 5</a></li>
+                   <!-- <li><a href="#">Link 5</a></li>
                 </ul>
                 -->
             </div>
@@ -66,6 +66,15 @@ s0.parentNode.insertBefore(s1,s0);
                     <li><i class="fa fa-envelope-o"></i> jferna6@xtec.cat</li>
                 </ul>
             </div>
+            <br>
+	        <br>
+	    <div class="fl_right">
+            <ul class="nospace linklist"> 
+                <li><a href="#">Comunicat</a></li>
+                <li><a href="/pages/full-width.php">Xat</a></li>
+                <li><a href="#">Tutorials</a></li>
+            </ul>
+        </div>
     <!-- ################################################################################################ -->
         </div>
     </div>
@@ -81,15 +90,14 @@ s0.parentNode.insertBefore(s1,s0);
                <nav id="mainav" class="fl_right">
       <ul class="clear">
         <li class="active"><a href="/index.php">Inici</a></li>
-        <li><a href="/pages/gallery.php">Galeria </a></li>
+        <li><a href="/pages/gallery.php">Galeria</a></li>
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
-        </li>       
-        <li><a href="/pages/full-width.php">XAT </a></li>
+		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>       
+        <li><a href="#">Propostes</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
-      <img src = "/textstyle/ElLaboratori.png" style="width:30%"> 
+      <img src = "/textstyle/ElLaboratori.png" style="width:258px;height:54px"> 
     </nav>
     <!-- ################################################################################################ -->
         </header>
