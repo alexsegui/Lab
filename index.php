@@ -109,7 +109,7 @@ Licence URI: https://www.os- templates.com/template-terms
         <ul class="nospace">
             <img src = "images/XAT.jpg">
         </ul>
-        <p class="link"><a href="pages/full-width.php">Benvinguts!!! &raquo;</a></p>
+        <p class="link"><a href="pages/propostes.php">Benvinguts!!! &raquo;</a></p>
       </article>
       <!-- ################################################################################################ -->
     </div>
