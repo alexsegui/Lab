@@ -105,7 +105,7 @@ Licence URI: https://www.os- templates.com/template-terms
         <p class="link"><a href="/pages/mep.php">Benvingudes!!! &raquo;</a></p>
       </article>
       <article class="one_quarter">
-        <h3 class="heading">XAT</h3>
+        <h3 class="heading">PROPOSTES</h3>
         <ul class="nospace">
             <img src = "images/XAT.jpg">
         </ul>

@@ -114,15 +114,15 @@ Licence URI: https://www.os-templates.com/template-terms
         
         	<div class="col-6">
             	<article>
-                	<h3 align="center">BotanicGO</h3>
+                	<h3 align="center">Botanic GO</h3>
                 	<ul>
-                    	<p align="justify"><em>****************************** FALTA ALUMNE ******************************</em></p>
+                    	<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
 					 	<p align="justify">
 
-	                   		- Crea el teu herbolari digital. <br><br>
+	                   		- Crea el teu herbolari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, clasifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
 	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
-	                   		- Orientat d'educacio infantil on distingir planta, tiga, arrel, flor, fruites... passant per primaria on estudin els tipus de plantes fins a secundaria i universitat.
+	                   		- Orientat en educacio infantil on han de distingir planta, tija, arrel, flor, fruits... passant per primaria on estudien els tipus de plantes, arribant fins a secundaria i a la universitat.
                     	
                     	</p>
                 	</ul>
@@ -149,9 +149,9 @@ Licence URI: https://www.os-templates.com/template-terms
                     	<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
 						<p align="justify">
 
-							- Crea la teva ciutat i destrueix la del teu company.
-							- A mesura que se superin reptes, el profssor facilitara bjectes per a la batalla final.
-                        	- Orientat a infantil i primaria, i especificament a secundaria en el desenvlupament de la fisica.
+							- Crea la teva ciutat i destrueix la del teu company.<br><br>
+							- A mesura que se superin reptes, el profssor facilitara objectes per a la batalla final.<br><br>
+                        	- Orientat a infantil i primaria, i especificament a secundaria en el desenvlupament de la fisica.<br><br>
                     	
                     	</p>
                 	</ul>
@@ -168,7 +168,7 @@ Licence URI: https://www.os-templates.com/template-terms
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/fotoIntinerari.png" alt="Imatge del joc d'itinerari Quimic." style="width:650px; height: 550px"></figure>
+            	<figure><img src="/images/fotoIntinerari.png" alt="Imatge del joc d'itinerari Quimic." style="width:550px; height: 410px"></figure>
         	</div>
         
         	<div class="col-6">
@@ -182,7 +182,7 @@ Licence URI: https://www.os-templates.com/template-terms
                     		<br><br>
                         	- Orientat a secundaria (3r i 4t eso). Pero tambe pot ser per a universitat o primaria.
                         	<br><br>
-                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de    recorrer i tambe geolocalitzarem la posicio del dispositiu.
+                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de visitar i tambe geolocalitzarem la posicio del dispositiu.
                         	<br><br>
                         </p>
                 	</ul>
@@ -191,8 +191,35 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
- <!-- __________________________________________________ F JOC INTINERARI QUIMIC _______________________________________________ -->   
+ <!-- ________________________________________________ F JOC INTINERARI QUIMIC _________________________________________________ -->   
 
+        
+<!-- _________________________________________________     I JOC ELEMENTALS    __________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/Elementals.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">ELS ELEMENTALS</h3>
+                	<ul>
+						<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula periodica, crea mol·lecules i reacciona amb els teus altres companys. <br><br>
+                        	- Orientat a secundaria (3r ESO). L'atom, enllaços quimics, estequiometria i reaccions quimiques. <br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada. <br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- ________________________________________________      F JOC ELEMENTALS      ______________________________________________ -->   
+        
 
 <!-- ########################<div class="overlay">#################################################### -->
 <!-- JAVASCRIPTS -->
