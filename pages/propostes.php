@@ -116,7 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Botanic GO</h3>
                 	<ul>
-                    	<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
+                    	<p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
 					 	<p align="justify">
 	                   		- Crea el teu herbolari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
@@ -124,6 +124,7 @@ Licence URI: https://www.os-templates.com/template-terms
 	                   		- Orientat en educaci&oacute; infantil on han de distingir planta, tija, arrel, flor, fruits... passant per prim&agrave;ria on estudien els tipus de plantes, arribant fins a secund&agrave;ria i a la universitat.<br><br>
                     	</p>
                 	</ul>
+					
             	</article>
         	</div>  
 
@@ -171,7 +172,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
-						<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
+					<p align="center"><em><img  src="/images/avatar/52.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
                         	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
@@ -218,7 +219,7 @@ Licence URI: https://www.os-templates.com/template-terms
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/jocMinecraft.png" alt=" " style="width:550px; height: 450px"></figure>
+            	<figure><img src="/images/jocMinecraft.png" alt=" " style="width:550px; height: 550px"></figure>
         	</div>
             
         	<div class="col-6">
