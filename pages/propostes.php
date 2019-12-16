@@ -89,7 +89,7 @@ Licence URI: https://www.os-templates.com/template-terms
         				<li>                <a href="/pages/gallery.php">            Galeria   </a></li>
 		 				<li>                <a class="active" href="/pages/dam.php"> DAM/SMX   </a></li>
 						<li>                <a class="active" href="/pages/mep.php"> MEP/MEI   </a></li>       
-        				<li>                <a href="/pages/propostes.php">          Propostes </a></li>
+        				<li>                <a href="/pages/propostes.php">          En curs   </a></li>
       				</ul>
     			</nav>
 
@@ -118,12 +118,10 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
                     	<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
 					 	<p align="justify">
-
 	                   		- Crea el teu herbolari digital.<br><br>
-	                   		- Fes una foto a les plantes de la teva zona, clasifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
+	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
 	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
-	                   		- Orientat en educacio infantil on han de distingir planta, tija, arrel, flor, fruits... passant per primaria on estudien els tipus de plantes, arribant fins a secundaria i a la universitat.
-                    	
+	                   		- Orientat en educaci&oacute; infantil on han de distingir planta, tija, arrel, flor, fruits... passant per prim&agrave;ria on estudien els tipus de plantes, arribant fins a secund&agrave;ria i a la universitat.<br><br>
                     	</p>
                 	</ul>
             	</article>
@@ -134,8 +132,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ___________________________________________________     F JOC PLANTES      ________________________________________________ -->
 
 
-<!-- ___________________________________________________    I JOC CATAPULTA     ________________________________________________ -->
-    
+<!-- ______________________________________________     I JOC Create and Destroy     ___________________________________________ -->
+
      	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -148,11 +146,9 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
                     	<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
 						<p align="justify">
-
 							- Crea la teva ciutat i destrueix la del teu company.<br><br>
-							- A mesura que se superin reptes, el profssor facilitara objectes per a la batalla final.<br><br>
-                        	- Orientat a infantil i primaria, i especificament a secundaria en el desenvlupament de la fisica.<br><br>
-                    	
+							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
+                        	- Orientat a infantil i prim&agrave;ria, i espec&iacute;ficament a secund&agrave;ria en el desenvlupament de la f&iacute;sica.<br><br>
                     	</p>
                 	</ul>
             	</article>
@@ -160,10 +156,10 @@ Licence URI: https://www.os-templates.com/template-terms
 
 		</div>
     
- <!-- __________________________________________________    F JOC CATAPULTA     ________________________________________________ -->  
+ <!-- _____________________________________________     F JOC Create and Destroy     ___________________________________________ -->  
 
 
- <!-- __________________________________________________ I JOC ITINERARI QUIMIC ________________________________________________ --> 
+ <!-- __________________________________________________ I JOC ITINERARI QUíMIC ________________________________________________ --> 
 
     	<div class="fila row2 bgded">
 
@@ -173,17 +169,13 @@ Licence URI: https://www.os-templates.com/template-terms
         
         	<div class="col-6">
             	<article>
-                	<h3 align="center">Itinerari Quimic</h3>
+                	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
 						<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
                     	<p align="justify">
-
-                    		- Apren quimica recorrent 16 racons de Girona.
-                    		<br><br>
-                        	- Orientat a secundaria (3r i 4t eso). Pero tambe pot ser per a universitat o primaria.
-                        	<br><br>
-                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de visitar i tambe geolocalitzarem la posicio del dispositiu.
-                        	<br><br>
+                    		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
+                        	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
+                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de visitar i tamb&eacute; geolocalitzarem la posici&oacute; del dispositiu.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -191,10 +183,64 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
- <!-- ________________________________________________ F JOC INTINERARI QUIMIC _________________________________________________ -->   
+<!-- _________________________________________________ F JOC ITINERARI QUíMIC __________________________________________________ -->   
 
         
-<!-- _________________________________________________     I JOC ELEMENTALS    __________________________________________________ --> 
+<!-- _____________________________________________     I JOC LABORATORI QUíMIC    ______________________________________________ --> 
+        
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/jocLaboratoriQuimic.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
+                	<ul>
+						<p align="justify"><em>************************* PROJECTE EN MARXA *************************</em></p>
+                    	<p align="justify">
+                    		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
+                        	- Orientat a secund&agrave;ria.<br><br>
+                        	- Joc RPG.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+<!-- _____________________________________________      F JOC LABORATORI QUíMIC      ___________________________________________ --> 
+        
+        
+<!-- _________________________________________________     I JOC MINECRAFT   _____________________________________________-_____ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/jocMinecraft.png" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">MINECRAFT</h3>
+                	<ul>
+						<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
+                    	<p align="justify">
+                    		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
+                        	- Orientat a prim&agrave;ria.<br><br>
+                        	- Joc RPG.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+<!-- ________________________________________________      F JOC MINECRAFT      ______________________________________________ --> 
+        
+        
+<!-- ________________________________________________    I JOC ELEMENTALS    _________________________________________________ --> 
 
     	<div class="fila row2 bgded">
 
@@ -208,9 +254,9 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
 						<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
                     	<p align="justify">
-                    		- Converteix-te en un element de la taula periodica, crea mol·lecules i reacciona amb els teus altres companys. <br><br>
-                        	- Orientat a secundaria (3r ESO). L'atom, enllaços quimics, estequiometria i reaccions quimiques. <br><br>
-                        	- Joc multijugador, cooperatiu, basat en realitat augmentada. <br><br>
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -218,7 +264,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
- <!-- ________________________________________________      F JOC ELEMENTALS      ______________________________________________ -->   
+ <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ --> 
         
 
 <!-- ########################<div class="overlay">#################################################### -->

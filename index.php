@@ -67,7 +67,7 @@ Licence URI: https://www.os- templates.com/template-terms
         <li><a href="/pages/gallery.php">Galeria </a></li>
         <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
 		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>
-        <li><a href="/pages/propostes.php">Propostes</a></li>
+        <li><a href="/pages/propostes.php">En curs</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
@@ -105,7 +105,7 @@ Licence URI: https://www.os- templates.com/template-terms
         <p class="link"><a href="/pages/mep.php">Benvingudes!!! &raquo;</a></p>
       </article>
       <article class="one_quarter">
-        <h3 class="heading">PROPOSTES</h3>
+        <h3 class="heading">En curs</h3>
         <ul class="nospace">
             <img src = "images/XAT.jpg">
         </ul>
@@ -268,7 +268,7 @@ Licence URI: https://www.os- templates.com/template-terms
         <li><a href="pages/gallery.php">Galeria</a></li>
         <li><a href="pages/dam.php">DAM</a></li>
         <li><a href="pages/mep.php">MEP/MEI</a></li>
-        <li><a href="/pages/propostes.php">Propostes</a></li>
+        <li><a href="/pages/propostes.php">En curs</a></li>
       </ul>
     </div>
     <div class="one_quarter">
