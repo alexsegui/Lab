@@ -145,7 +145,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Create and Destroy</h3>
                 	<ul>
-                    	<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
+                    <p align="center"><em><img  src="/images/avatar/49.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
 						<p align="justify">
 							- Crea la teva ciutat i destrueix la del teu company.<br><br>
 							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
@@ -199,7 +199,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
-						<p align="justify"><em>************************* PROJECTE EN MARXA *************************</em></p>
+			        <p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
                         	- Orientat a secund&agrave;ria.<br><br>
@@ -226,8 +226,8 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">MINECRAFT</h3>
                 	<ul>
-						<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
-                    	<p align="justify">
+	                <p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+						<p align="justify">
                     		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
                         	- Orientat a prim&agrave;ria.<br><br>
                         	- Joc RPG.<br><br>
@@ -253,7 +253,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
-						<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
+			         <p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
                         	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
