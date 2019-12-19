@@ -116,7 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Botanic GO</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/14.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
 					 	<p align="justify">
 	                   		- Crea el teu herbolari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
@@ -145,7 +145,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Create and Destroy</h3>
                 	<ul>
-                    	<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
+                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
 						<p align="justify">
 							- Crea la teva ciutat i destrueix la del teu company.<br><br>
 							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
@@ -172,7 +172,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
-					<p align="center"><em><img  src="/images/avatar/52.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
                         	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
@@ -199,7 +199,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
-						<p align="justify"><em>************************* PROJECTE EN MARXA *************************</em></p>
+                    	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
                         	- Orientat a secund&agrave;ria.<br><br>
@@ -226,7 +226,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">MINECRAFT</h3>
                 	<ul>
-						<p align="justify"><em>****************************** FALTA MEP/MEI ******************************</em></p>
+					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
                         	- Orientat a prim&agrave;ria.<br><br>
@@ -253,7 +253,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
-						<p align="justify"><em>****************************** FALTA DAM/SMX ******************************</em></p>
+                    	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
                         	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
@@ -266,6 +266,207 @@ Licence URI: https://www.os-templates.com/template-terms
     	</div>
 
  <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ --> 
+        
+<!-- ________________________________________________    I JOC CURSA DE COTXES    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/Mecarace%20-%20Team%20Silicona.PNG" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">JOC DE CURSES</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- El vehicle avança a mesura de que es responen les pregunes correctament, o mitjançant la velocitat d'escriptura. L'idea es agilitzar el temps de resposta i escriptura d'un jugador.<br><br>
+                        	- Orientat a primaria i secundaria.<br><br>
+                        	- Joc multijugador<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC CURSA DE COTXES      _____________________________________________ -->
+        
+        
+<!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/EndoGame.png" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">EndoGame</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- EndoGame és un joc que es tracta en el rescat de Emily, emily està atrapada per zombies després d'un
+                            apocalipsis, el seu millor amic Endo haurà de lluitar pel seu rescat en el qual tindrá que enfrontar-se
+                            contra obstacles i zombies, Endo haurà de trobar la clau correcta per salvar-la.<br><br>
+                        	- Orientat per a alumnes de primària i secuandaria.<br><br>
+                        	- EndoGame és un joc basat en 3D, RPG.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC ENDOGAME      _____________________________________________ -->
+        
+<!-- ________________________________________________    I JOC BattleQuest    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/BattleQuest.png" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Battle Quest</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                            - 1 contra 1<br><br>
+                    		- Consisteix en dues escenes on surten preguntes i si les encertes aconsegueixes
+                            ventatges i el més important és posar en desavantatge al teu rival (com per exemple
+                            congelar al rival perquè no pugui respondre el següent torn.<br><br>
+                            - El joc acaba quan un dels jugadors perd tots els cors (vides) <br><br>
+                        	- Preguntes preparades per primària<br><br>
+                        	- Joc amb tecnologia 3D<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC BattleQuest      _____________________________________________ -->
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+ <!-- ________________________________________________    I JOC ROL    _______ERIC__________________________________________  
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/Eric.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">JOC DE ROL</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC ROL      _____________________________________________ --> 
+        
+        
+ <!-- ________________________________________________    I GEOGO    _______TONI__________________________________________  
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">GEOGO</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC GEOGO      _____________________________________________ --> 
+        
+ <!-- ________________________________________________    I QUIZ    _______ARTURO__________________________________________  
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">QUIZ</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/25.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC QUIZ      _____________________________________________ --> 
+        
+        
+ <!-- ________________________________________________    I CUBE    _______DANI M__________________________________________  
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">CUBE</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F CUBE      _____________________________________________ -->
+        
         
 
 <!-- ########################<div class="overlay">#################################################### -->
