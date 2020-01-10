@@ -223,14 +223,14 @@ Licence URI: https://www.os-templates.com/template-terms
      	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/" alt="Imatge del joc de wally." style="width:550px; height: 550px"></figure>
+            	<figure><img src="/images/wally.png" alt="Imatge del joc de wally." style="width:550px; height: 550px"></figure>
         	</div>
         
         	<div class="col-6">
             	<article>
                 	<h3 align="center">Buscando a Wally</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
 						<p align="justify">
 							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
                             en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
@@ -303,11 +303,8 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Create and Destroy</h3>
                 	<ul>
-<<<<<<< HEAD:pages/propostes.php
-                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-=======
-                    <p align="center"><em><img  src="/images/avatar/49.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
->>>>>>> dbccd8bf3db99e9c133ee0b31c3c8796b1d6a251:pages/propostes-old.php
+
+                 <p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
 						<p align="justify">
 							- Crea la teva ciutat i destrueix la del teu company.<br><br>
 							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
@@ -361,11 +358,8 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
-<<<<<<< HEAD:pages/propostes.php
                     	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"></em></p>
-=======
-			        <p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"></em></p>
->>>>>>> dbccd8bf3db99e9c133ee0b31c3c8796b1d6a251:pages/propostes-old.php
+	
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
                         	- Orientat a secund&agrave;ria.<br><br>
@@ -392,13 +386,10 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">MINECRAFT</h3>
                 	<ul>
-<<<<<<< HEAD:pages/propostes.php
 					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/53.png" alt="Avatar"></em></p>
                     	<p align="justify">
-=======
-	                <p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+	      
 						<p align="justify">
->>>>>>> dbccd8bf3db99e9c133ee0b31c3c8796b1d6a251:pages/propostes-old.php
                     		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
                         	- Orientat a prim&agrave;ria.<br><br>
                         	- Joc RPG.<br><br>
@@ -424,11 +415,8 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
-<<<<<<< HEAD:pages/propostes.php
                     	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-=======
-			         <p align="center"><em><img  src="/images/avatar/PdteDAM.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
->>>>>>> dbccd8bf3db99e9c133ee0b31c3c8796b1d6a251:pages/propostes-old.php
+			        
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
                         	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
