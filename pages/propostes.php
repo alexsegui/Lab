@@ -103,7 +103,165 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ########################<div class="overlay">####################################################
 <div class="row2 bgded" style="background-image:url('images/SceneRegistre.jpg');">-->
 	
+        
+<!-- ________________________________________________    I JOC Monestir Ripoll    _________________________________________________ --> 
 
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/MonestirRipoll.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Monestir Ripoll Scape </h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- El nostre escape room es portarà a la pràctica en una escola de Ripoll, tot i que també
+                            seria adient portar-lo a altres escoles de la comarca del Ripollès. El target són els nens
+                            i nenes de cicle superior, ja en aquest cicle és on es treballa l’entorn patrimonial proper
+                            i la història del poble i/o comarca. Un cop s’hagi explicat els infants la història del
+                            poble, concretament la història del monestir, se’ls proposarà fer aquest escape room,
+                            el qual serà una manera d’avaluar alguns continguts explicats i treballats.<br><br>
+                            Aquest EscapeRoom consta de set pantalles, cinc de les quals són sales en què els
+                            nens i les nenes han d'aconseguir sortir-ne. Cadascuna de les sales es treballa una
+                            àrea curricular: matemàtiques, llengües, arts, naturals i socials. I a més, a dins de cada
+                            sala han d'aconseguir una pista per saber qui és el culpable de tot plegat, i saber quina
+                            és la porta, o opció per poder-ne sortir. Per tant en cada una de les sales hi ha dues
+                            activitats educatives a realitzar.<br><br>
+                            Com a punt important, informar que el videojoc es fa a través d'imatges 360o.<br><br>
+                        	- Preguntes preparades per primaria (cicle superior) <br><br>
+                        	- Escape Room 3D <br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC Monestir Ripoll       _____________________________________________ -->
+
+<!-- ________________________________________________    I JOC Co-Scape Room   _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/CoSpace.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Co-Scape Room</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- La nostra primera idea de joc era simular un scaperoom on, a partir de la resolució de
+                            diferents problemes matemàtics, el jugador aconseguiria pistes per poder sortir de
+                            l’habitació.<br><br>
+                            Al veure que això seria complicat de programar, vam decidir canviar la nostra idea i utilitzar
+                            un altre escenari, en aquest cas un parc d’un poble o ciutat. Hem dissenyat diferents
+                            escenaris i cada un d’ells té un cor al centre, que si el cliques et proposa un problema
+                            matemàtic a resoldre. Cal dir que a cada escenari va augmentant la seva dificultat i
+                            requereix aplicar continguts matemàtics més complexos.<br><br>
+                            A més, en el nostre joc s’hi poden veure diferents personatges (persones i animals), els
+                            quals es troben passejant per el parc i tenen una resposta numèrica. El joc és força simple, i
+                            l’objectiu és que els alumnes pensin i resolguin el problema proposat i, posteriorment
+                            busquin el personatge amb la resposta correcta. Un cop el trobin han de clicar-lo i es
+                            passarà a un nou escenari, en el qual hi haurà un nou problema.<br><br>
+                            Així doncs, la nostra proposta és si es podrien incloure els problemes matemàtics en un joc
+                            d’scaperoom, ja que pensem que seria més motivador i dinàmic pels alumnes i els cridaria
+                            més l’atenció.<br><br>
+                            El nostre prototip de joc s’ha fet amb el CoSpaces i es pot veure en el següent enllaç:
+                            <a href="https://cospac.es/9Uoc">https://cospac.es/9Uoc</a><br><br>
+                                                        
+                        	- Preguntes preparades per infantil i primaria<br><br>
+                        	- Escape Room 3D<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+    	</div>
+
+ <!-- _______________________________________________      F JOC Co-Scape Room       _____________________________________________ -->
+        
+<!-- ________________________________________________    I JOC Laberint    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/laberint.png" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">The secret maze</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- El nostre videojocestà contextualitzat a un bosc, concretament a un laberint. En aquest hi ha
+                            un gat i nosaltres som un ratolí. Com ja sabeu, als gats els hi encanten els ratolins. D’aquesta
+                            manera, l’objectiu del nostre protagonista és poder escapar d’aquest laberint per poder
+                            desfer-se del gat.<br><br>
+                            Però EP!!!! No és tan fàcil! El nostre ratolí es trobarà moltes portes que li priven de seguir
+                            endavant!! Per desbloquejar-les haurà de resoldre alguns enigmes... uns de mes fàcils i altres
+                            de mes difícils!<br><br>
+                            
+                        	- Preguntes preparades per infantil i primaria<br><br>
+                            
+                        	- Joc amb tecnologia 3D<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+    	</div>
+
+ <!-- _______________________________________________      F JOC Laberint      _____________________________________________ -->
+
+        <!-- ______________________________________________     I JOC Wally     ___________________________________________ -->
+
+     	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/" alt="Imatge del joc de wally." style="width:550px; height: 550px"></figure>
+        	</div>
+        
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Buscando a Wally</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/" alt="Avatar"></em></p>
+						<p align="justify">
+							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
+                            en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
+                            pantalla, que anessin sortint de manera
+                            ordenada diferents elements que els nens i
+                            nenes haurien de buscar. Quan trobessin
+                            l’element, el tocarien i en sortiria
+                            un altre i també estaria bé tenir
+                            l’opció de saltar aquell element.<br><br>
+                            Si s’equivoquen, podria sortir una
+                            petita creu, d’aquesta manera ells
+                            mateixos podrien autoavaluar-se.<br><br>
+                            Abans de començar un nou paisatge la mestra
+                            hauria de poder escollir diferents nivells. Que es
+                            poden basar en la quantitat d’elements que han
+                            de trobar i en si estan molt amagats o no. I
+                            també quants jugadors, i poder posar el nom,
+                            jugaran aquell paisatge.<br><br>
+                            
+                        	- Orientat a infantil i prim&agrave;ria<br><br>
+                            
+                            - Joc amb tecnologia 2D<br><br>
+
+                    	</p>
+                	</ul>
+            	</article>
+        	</div>
+		</div>
+    
+ <!-- _____________________________________________     F JOC Wally     ___________________________________________ -->  
+        
 <!-- ___________________________________________________     I JOC PLANTES      ________________________________________________ -->
 
     	<div class="fila row2 bgded">
@@ -172,7 +330,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
-					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/67.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
                         	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
@@ -199,7 +357,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
                         	- Orientat a secund&agrave;ria.<br><br>
@@ -226,7 +384,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">MINECRAFT</h3>
                 	<ul>
-					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/53.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
                         	- Orientat a prim&agrave;ria.<br><br>
@@ -267,31 +425,30 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ --> 
         
-<!-- ________________________________________________    I JOC CURSA DE COTXES    _________________________________________________ --> 
+<!-- ________________________________________________    I JOC FiQ Scape    _________________________________________________ --> 
 
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/Mecarace%20-%20Team%20Silicona.PNG" alt=" " style="width:550px; height: 450px"></figure>
+            	<figure><img src="/images/FiQScape.jpg" alt=" " style="width:550px; height: 450px"></figure>
         	</div>
             
         	<div class="col-6">
             	<article>
-                	<h3 align="center">JOC DE CURSES</h3>
+                	<h3 align="center">FiQ Scape</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/68.png" alt="Avatar"></em></p>
                     	<p align="justify">
-                    		- El vehicle avança a mesura de que es responen les pregunes correctament, o mitjançant la velocitat d'escriptura. L'idea es agilitzar el temps de resposta i escriptura d'un jugador.<br><br>
-                        	- Orientat a primaria i secundaria.<br><br>
-                        	- Joc multijugador<br><br>
+                    		- Escape room de fisica i quimica. Teniu una hora per resoldre enigmes i escapar del laboratori.<br><br>
+                        	- Orientat a 3r ESO Fisica i Quimica.<br><br>
+                        	- RPG, 3D Fisrt Person<br><br>
                         </p>
                 	</ul>
             	</article>
         	</div>
-
     	</div>
 
- <!-- _______________________________________________      F JOC CURSA DE COTXES      _____________________________________________ -->
+ <!-- _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->
         
         
 <!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________ --> 
@@ -306,7 +463,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">EndoGame</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/55.png" alt="Avatar"><img  src="/images/avatar/62.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- EndoGame és un joc que es tracta en el rescat de Emily, emily està atrapada per zombies després d'un
                             apocalipsis, el seu millor amic Endo haurà de lluitar pel seu rescat en el qual tindrá que enfrontar-se
@@ -322,26 +479,49 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC ENDOGAME      _____________________________________________ -->
         
-<!-- ________________________________________________    I JOC BattleQuest    _________________________________________________ --> 
+<!-- ________________________________________________    I JOC Scape Finalistes    _________________________________________________ --> 
 
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/BattleQuest.png" alt=" " style="width:550px; height: 450px"></figure>
+            	<figure><img src="/images/ScapeFinalistes.png" alt=" " style="width:550px; height: 450px"></figure>
         	</div>
             
         	<div class="col-6">
             	<article>
-                	<h3 align="center">Battle Quest</h3>
+                	<h3 align="center">Scape Finalistes</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/69.png" alt="Avatar"></em></p>
                     	<p align="justify">
                             - 1 contra 1<br><br>
-                    		- Consisteix en dues escenes on surten preguntes i si les encertes aconsegueixes
-                            ventatges i el més important és posar en desavantatge al teu rival (com per exemple
-                            congelar al rival perquè no pugui respondre el següent torn.<br><br>
-                            - El joc acaba quan un dels jugadors perd tots els cors (vides) <br><br>
-                        	- Preguntes preparades per primària<br><br>
+                    		- Escape room (vida real i vidda virtual) <br><br>
+                            - El joc acaba quan tots els jugadors han acabat les proves. <br><br>
+                        	- Preguntes preparades per cicles (SMX, CAI, DAM, FIP i APD). <br><br>
+                        	- Joc amb tecnologia 2D<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+    	</div>
+
+ <!-- _______________________________________________      F JOC Scape Finalistes      _____________________________________________ -->
+        
+<!-- ________________________________________________    I JOC Organ Explorer    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/organ-explorer.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Organ Explorer</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/58.png" alt="Avatar"><img  src="/images/avatar/64.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                    		- Consisteix en un joc en tercera persona, semblant a un scape room. S'haurà de buscar els organs del cos humà i afegir-los en l'ordre correcte. Per poder trobar els organs hauràs de resoldre amb certs enigmes i reptes.<br><br>
+                        	- Preguntes preparades per secundaria (biologia) <br><br>
                         	- Joc amb tecnologia 3D<br><br>
                         </p>
                 	</ul>
@@ -350,11 +530,9 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
- <!-- _______________________________________________      F JOC BattleQuest      _____________________________________________ -->
+ <!-- _______________________________________________      F JOC Organ Explorer      _____________________________________________ -->
         
-        
-        
-        
+
         
         
         
