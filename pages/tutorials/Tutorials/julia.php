@@ -51,7 +51,7 @@ Licence URI: https://www.os-templates.com/template-terms
       <ul class="nospace linklist"> 
         <li><a href="#">Comunicat</a></li>
         <li><a href="/pages/full-width.php">Xat</a></li>
-        <li><a href="/pages/tutorials/Tutorials/tutorialsindex.html">Tutorials</a></li>
+        <li><a href="/pages/tutorials/Tutorials/tutorialsindex.php">Tutorials</a></li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -64,7 +64,7 @@ Licence URI: https://www.os-templates.com/template-terms
   <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
     <nav id="mainav" class="fl_left">
-      <img src = "../images/UDGPalamos.gif" style="width:20%"> 
+      <img src = "/images/UDGPalamos.gif" style="width:20%"> 
     </nav>
     <!-- ################################################################################################ -->
        <nav id="mainav" class="fl_right">
@@ -92,50 +92,109 @@ Licence URI: https://www.os-templates.com/template-terms
   <main class="container clear"> 
     <!-- main body -->
 <style>
-    div.a {
-        text-transform: uppercase;
-    }
+div.a {
+  text-transform: uppercase;
+}
 </style>
+      
+      
     <!-- ################################################################################################ -->
-    <div class="a">
+    <div class="a"> 
       <!-- ################################################################################################ -->
-      <h1>Tutorial Plane Simulation  </h1>
+      <h1>TUTORIAL AR TRUMP  </h1>
+    
+    <p><li> Entrar a la web de Vuforia (https://developer.vuforia.com/vui/develop/licenses). Registrar-se o iniciar sessió. I anar a “Get Development Key”. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar1.png">
+    <p><li> Posar un nom a la llicència per el joc que es vol crear. Acceptar les condicions d’ús, i confirmar. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar2.png">
+    <p><li> S'ha creat la llicència, i ara s'ha d'entrar clicant-hi a sobre. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar3.png">
+    <p><li> Copiar la clau de la llicència. </li></p>  
+        <img src="../Imatges/ImatgesJulia/ar4.png">
+    <p><li> Anar al moodle, a l'apartat de AR Augmented Reality (dins de MP15 - Dual - Videojocs) i descarregar el Kit Augmented Reality Trump. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar5.png">
+    <p><li> Tornar a la web de Vuforia, dins l'apartat de "Target Manager". </li></p>
+        <img src="../Imatges/ImatgesJulia/ar6.png">
+    <p><li> Afegir una base de dades, i posar-li un nom. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar7.png">
+        <img src="../Imatges/ImatgesJulia/ar8.png">
+    <p><li> Afegir un objecte. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar9.png">
+    <p><li> L’objecte ha de ser una sola imatge. Buscar l'imatge del bitllet (20euros.jpg) dins del .zip descarregat a l'apartat 5. I posar-li un tamany de 5. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar10.png">
+        <img src="../Imatges/ImatgesJulia/ar11.png">
+    <p><li> Quan ja s'hagi creat, s'haurà de descarregar la base de dades. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar12.png">
+        <img src="../Imatges/ImatgesJulia/ar13.png">
+    <p><li> Crear un projecte 3D a Unity (2018.2.21f). </li></p>
+        <img src="../Imatges/ImatgesJulia/ar14.png">
+    <p><li> Importar el paquet de Vuforia dins dels Assets. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar15.png">
+    <p><li> Insertar la base de dades del bitllet (Descarregada al pas 10). </li></p>
+        <img src="../Imatges/ImatgesJulia/ar16.png">
+    <p><li> Insertar tambè la carpeta LowpolyTrump, que es troba dins del .zip descarregat del moodle.</li></p>
+        <img src="../Imatges/ImatgesJulia/ar17.png">
+    <p><li> Guardar l'escena com a main. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar18.png">
+    <p><li> Dins de la carpeta Assets,Vuforia, Prefabs, hi ha l' ARCamera,  que s'ha de pujar fins a la jerarquia. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar19.png">
+    <p><li> Eliminar la Càmera Principal. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar20.png">
+    <p><li> Dins de Assets, Vuforia, Prefabs, hi ha ImageTrget que s'ha de pujar a la jerarquia. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar21.png">
+    <p><li> Dins de l’inspector de l'AR Camera i "Open VuforiaConfiguration", enganxar la llicència copiada al pas 4. I activar les dades. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar22.png">
+        <img src="../Imatges/ImatgesJulia/ar23.png">
+    <p><li> Dins de l’inspector de l’ImageTarget, posar la base de dades descarregada i importada. </li></p> 
+        <img src="../Imatges/ImatgesJulia/ar24.png">
+    <p><li> Dins de les carpetes Assets,LowpolyTrump, Anims, hi ha el trump_lp_anim_iddle01, que s'ha de pujar a la jerarquia dins de ImageTarget. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar25.png">
+    <p><li> A l’inspector de trump_ip_anim_iddle01, canviar la rotació i l'escala. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar26.png">
+    <p><li> Importar la carpeta StandardAssets del .zip descarregat dins de la carpeta Assets. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar27.png">
+    <p><li> Dins les carpetes Assets, StandardAassets, CrossPlatformInput, Prefabs, hi ha el MobileSingleStickControl, que s'ha de pujar  a la jerarquia. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar28.png">
+    <p><li> Eliminar el botó JumpButton. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar29.png">
+    <p><li> Canviar els valors a l'escala i el rang de moviment a l’inspector de MobileJoystick. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar30.png">
+    <p><li> Crear una carpeta d'Scripts dins d'Assets, i afegir-hi el TrumpController del .zip descarregat. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar31.png">
+    <p><li> A l'animació d'en Trump, s'ha d'afegir un Rigidbody, on s'ha de treure la gravetat. I afegir també l'script afegit al pas anterior. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar32.png">
+    <p><li> Dins de la segona animació (iddle) de dins les carpetes Assets, LowpolyTrump, Anims, Canviar el tipus d'animació a Legacy, dins de l'apartat Rig. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar33.png">
+    <p><li> Fer el mateix amb la tercera animació (walk). </li></p>
+        <img src="../Imatges/ImatgesJulia/ar34.png">
+    <p><li> Dins de l'animació de iddle, s'ha de canviar el nom a "Iddle", i posar-la en mode loop. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar35.png">
+        <img src="../Imatges/ImatgesJulia/ar36.png">
+    <p><li> Dins del personatge de Trump, dir que hi ha dos animacions, i posar l'animació de walk. </li></p>
+        <img src="../Imatges/ImatgesJulia/ar37.png">
+    <p></p>
         
-        <img src="../Imatges/ImatgesIvan/plane1.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane2.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane3.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane4.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane5.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane6.png">
-    <p></p>
-        <img src="../Imatges/ImatgesIvan/plane7.png">
-    <p></p>
-        
-    <!-- ################################################################################################ -->
+     <!-- ################################################################################################ -->
+       
         <div class="sdb_holder">
         <article>
           <h6>TUTORIALS DAM</h6>
           <ul>
-            <li><a href="mingo.html">GAMEKIT 2D</a></li>
-            <li><a href="jocsan.html">GAMEKIT 3D</a></li>
-            <li><a href="toni.html">PLATAFORMES 2D</a></li>
-            <li><a href="eric.html">PROTOTYPE 3RD PERSON</a></li>
-            <li><a href="alex.html">BASIC GAMEPLAY</a></li>
-            <li><a href="danim.html">DRIVE SIMULATION</a></li>
-            <li><a href="ivan.html">PLANE SIMULATION</a></li>
-            <li><a href="julia.html">AR TRUMP</a></li>
-            <li><a href="arturo.html">BASE DE DADES EN UNITY</a></li>
-            <li><a href="dania.html">MULTIPLAYER</a></li>
-            <li><a href="mingoscripts.html">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
+            <li><a href="mingo.php">GAMEKIT 2D</a></li>
+            <li><a href="jocsan.php">GAMEKIT 3D</a></li>
+            <li><a href="toni.php">PLATAFORMES 2D</a></li>
+            <li><a href="eric.php">PROTOTYPE 3RD PERSON</a></li>
+            <li><a href="alex.php">BASIC GAMEPLAY</a></li>
+            <li><a href="danim.php">DRIVE SIMULATION</a></li>
+            <li><a href="ivan.php">PLANE SIMULATION</a></li>
+            <li><a href="julia.php">AR TRUMP</a></li>
+            <li><a href="arturo.php">BASE DE DADES EN UNITY</a></li>
+            <li><a href="dania.php">MULTIPLAYER</a></li>
+            <li><a href="mingoscripts.php">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
           </ul>
         </article>
       </div>
-             
+      
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->

@@ -51,7 +51,7 @@ Licence URI: https://www.os-templates.com/template-terms
       <ul class="nospace linklist"> 
         <li><a href="#">Comunicat</a></li>
         <li><a href="/pages/full-width.php">Xat</a></li>
-        <li><a href="/pages/tutorials/Tutorials/tutorialsindex.html">Tutorials</a></li>
+        <li><a href="/pages/tutorials/Tutorials/tutorialsindex.php">Tutorials</a></li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -64,7 +64,7 @@ Licence URI: https://www.os-templates.com/template-terms
   <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
     <nav id="mainav" class="fl_left">
-      <img src = "../images/UDGPalamos.gif" style="width:20%"> 
+      <img src = "/images/UDGPalamos.gif" style="width:20%"> 
     </nav>
     <!-- ################################################################################################ -->
        <nav id="mainav" class="fl_right">
@@ -448,17 +448,17 @@ Licence URI: https://www.os-templates.com/template-terms
         <article>
           <h6>TUTORIALS DAM</h6>
           <ul>
-            <li><a href="mingo.html">GAMEKIT 2D</a></li>
-            <li><a href="jocsan.html">GAMEKIT 3D</a></li>
-            <li><a href="toni.html">PLATAFORMES 2D</a></li>
-            <li><a href="eric.html">PROTOTYPE 3RD PERSON</a></li>
-            <li><a href="alex.html">BASIC GAMEPLAY</a></li>
-            <li><a href="danim.html">DRIVE SIMULATION</a></li>
-            <li><a href="ivan.html">PLANE SIMULATION</a></li>
-            <li><a href="julia.html">AR TRUMP</a></li>
-            <li><a href="arturo.html">BASE DE DADES EN UNITY</a></li>
-            <li><a href="dania.html">MULTIPLAYER</a></li>
-            <li><a href="mingoscripts.html">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
+            <li><a href="mingo.php">GAMEKIT 2D</a></li>
+            <li><a href="jocsan.php">GAMEKIT 3D</a></li>
+            <li><a href="toni.php">PLATAFORMES 2D</a></li>
+            <li><a href="eric.php">PROTOTYPE 3RD PERSON</a></li>
+            <li><a href="alex.php">BASIC GAMEPLAY</a></li>
+            <li><a href="danim.php">DRIVE SIMULATION</a></li>
+            <li><a href="ivan.php">PLANE SIMULATION</a></li>
+            <li><a href="julia.php">AR TRUMP</a></li>
+            <li><a href="arturo.php">BASE DE DADES EN UNITY</a></li>
+            <li><a href="dania.php">MULTIPLAYER</a></li>
+            <li><a href="mingoscripts.php">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
           </ul>
         </article>
       </div>

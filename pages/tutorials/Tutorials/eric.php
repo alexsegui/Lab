@@ -74,7 +74,7 @@ Licence URI: https://www.os-templates.com/template-terms
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
 		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
         </li>       
-        <li><a href="/pages/propostes.php">En curs</a></li>
+        <li><a href="/pages/propostes.php">Propostes</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
@@ -88,39 +88,84 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-
+<div class="wrapper row3">
+  <main class="container clear"> 
+    <!-- main body -->
+<style>
+    div.a {
+        text-transform: uppercase;
+}
+</style>
     <!-- ################################################################################################ -->
-    <div class="a">
+    <div class="a"> 
       <!-- ################################################################################################ -->
-      
+      <h1>Prototype 3rd Person</h1>
         
-    <!-- ################################################################################################ -->
-        <div class="sdb_holder">
-        <article>
+        <p><li> Descarregar Asset: Third Person Controller – Basic Locomotion FREE. </li></p>
+            <img src="../Imatges/ImatgesEric/proto1.png">
+        <p><li> Descarregar Asset: Barbarian Warrior.</li></p>
+            <img src="../Imatges/ImatgesEric/proto2.png">
+        <p><li> Posar Barbarian → Model → Barbarian a Jerarquia: vThirdPersonController.</li></p>
+            <img src="../Imatges/ImatgesEric/proto3.png">
+            <img src="../Imatges/ImatgesEric/proto4.png">
+        <p><li> A l’Inspector desactivar el Mesh_LOD. </li></p>
+            <img src="../Imatges/ImatgesEric/proto5.png">
+        <p><li> A l’Inspector: vThirdPersonController → Animator → Avatar → Barbarian Avatar.</li></p>
+            <img src="../Imatges/ImatgesEric/proto6.png">
+        <p><li> A Jerarquia → Desactivar a l’Inspector Hive, Canvas i Light.</li></p>
+            <img src="../Imatges/ImatgesEric/proto7.png">
+        <p><li> Descarregar Asset: Nature Starter Kit 2. </li></p>
+            <img src="../Imatges/ImatgesEric/proto8.png">
+        <p><li> Provar el terrain → Provar la Demo.</li></p>
+            <img src="../Imatges/ImatgesEric/proto9.png">
+        <p>
+            <li> No s’ha trobat ningun Asset gratuit per fer aigua com (Aqua Water / River Set).</li>
+            <li> Gaia ( ho te tot → terreny, aigua, clima, ambient …).</li>
+        </p>
+        <p><li> Descarregar Asset: Rain Drop Effect 2.</li></p>
+            <img src="../Imatges/ImatgesEric/proto10.png">
+        <p><li> A project → RainDropEffect2 → Prefab → Rain3 → a Inspector.</li></p>
+            <img src="../Imatges/ImatgesEric/proto11.png">
+        <p><li> A project → Rain3 → Alpha → Donar la intensitat de pluja.</li></p>
+            <img src="../Imatges/ImatgesEric/proto12.png">
+        <p><li> Descarregar Asset: Rain Maker – 2D and 3D Rain Particle System for Unity.</li></p>
+            <img src="../Imatges/ImatgesEric/proto13.png">
+        <p><li> A projecte → Rain Maker → Prefab → Rain Prefab → a Inspector</li></p>
+            <img src="../Imatges/ImatgesEric/proto14.png">
+        <p><li> Final Game </li></p>
+            <img src="../Imatges/ImatgesEric/proto15.png">
         <p></p>
+        <p></p>
+      
+    <!-- ################################################################################################ -->
+      
+      <div class="sdb_holder">
+        <article>
           <h6>TUTORIALS DAM</h6>
           <ul>
-            <li><a href="mingo.html">GAMEKIT 2D</a></li>
-            <li><a href="jocsan.html">GAMEKIT 3D</a></li>
-            <li><a href="toni.html">PLATAFORMES 2D</a></li>
-            <li><a href="eric.html">PROTOTYPE 3RD PERSON</a></li>
-            <li><a href="alex.html">BASIC GAMEPLAY</a></li>
-            <li><a href="danim.html">DRIVE SIMULATION</a></li>
-            <li><a href="ivan.html">PLANE SIMULATION</a></li>
-            <li><a href="julia.html">AR TRUMP</a></li>
-            <li><a href="arturo.html">BASE DE DADES EN UNITY</a></li>
-            <li><a href="dania.html">MULTIPLAYER</a></li>
-            <li><a href="mingoscripts.html">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
+            <li><a href="mingo.php">GAMEKIT 2D</a></li>
+            <li><a href="jocsan.php">GAMEKIT 3D</a></li>
+            <li><a href="toni.php">PLATAFORMES 2D</a></li>
+            <li><a href="eric.php">PROTOTYPE 3RD PERSON</a></li>
+            <li><a href="alex.php">BASIC GAMEPLAY</a></li>
+            <li><a href="danim.php">DRIVE SIMULATION</a></li>
+            <li><a href="ivan.php">PLANE SIMULATION</a></li>
+            <li><a href="julia.php">AR TRUMP</a></li>
+            <li><a href="arturo.php">BASE DE DADES EN UNITY</a></li>
+            <li><a href="dania.php">MULTIPLAYER</a></li>
+            <li><a href="mingoscripts.php">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
           </ul>
         </article>
       </div>
-             
+     
+     
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
-  
+  </main>
+</div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
