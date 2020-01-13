@@ -4,48 +4,37 @@ Template Name: Abele
 Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
-Licence URI: https://www.os- templates.com/template-terms
---> 
-<?php session_start(); ?>
+Licence URI: https://www.os-templates.com/template-terms
+-->
 <html>
 <head>
-
-<title>ELLABORATORI</title>
+<title>Abele</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-<?php 
-   $avat =  $_SESSION['avat'];
-?>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="clear"> 
+    <!-- ################################################################################################ -->
     <div class="fl_left">
-         Usuari/a:  
-		<?php         
-            echo "<img src = images/avatar/" . $avat . ".png style=width:20%>"?>
-		  <a href="/sortir.php">-- Sortir --</a>
-	</div>
-	<div class="fl_right">
       <ul class="nospace linklist">
-        <li><i class="fa fa-phone"></i> 65 75 85 266</li>
-        <li><i class="fa fa-envelope-o"></i> jferna6@xtec.cat</li>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+        <li><a href="#">Link 4</a></li>
+        <li><a href="#">Link 5</a></li>
       </ul>
     </div>
-	 <br>
-	 <br>
-	<div class="fl_right">
-      <ul class="nospace linklist"> 
-        <li><a href="#">Comunicat</a></li>
-        <li><a href="/pages/full-width.php">Xat</a></li>
-        <li><a href="/pages/tutorials/Tutorials/tutorialsindex.php">Tutorials</a></li>
+    <div class="fl_right">
+      <ul class="nospace linklist">
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
       </ul>
     </div>
-    
     <!-- ################################################################################################ -->
   </div>
 </div>
@@ -55,23 +44,36 @@ Licence URI: https://www.os- templates.com/template-terms
 <div class="wrapper row1">
   <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
-    <nav id="mainav" class="fl_left">
-      <img src = "images/UDGPalamos.gif" style="width:20%"> 
-    </nav>
-   
-
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">Abele</a></h1>
+    </div>
     <!-- ################################################################################################ -->
     <nav id="mainav" class="fl_right">
       <ul class="clear">
-        <li class="active"><a href="/index.php">Inici</a></li>
-        <li><a href="/pages/gallery.php">Galeria </a></li>
-        <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
-		<li><a class="active" href="/pages/mep.php">MEP/MEI</a></li>
-        <li><a href="/pages/propostes.php">En curs</a></li>
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a class="drop" href="#">Pages</a>
+          <ul>
+            <li><a href="pages/gallery.html">Gallery</a></li>
+            <li><a href="pages/full-width.html">Full Width</a></li>
+            <li><a href="pages/sidebar-left.html">Sidebar Left</a></li>
+            <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
+            <li><a href="pages/basic-grid.html">Basic Grid</a></li>
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Dropdown</a>
+          <ul>
+            <li><a href="#">Level 2</a></li>
+            <li><a class="drop" href="#">Level 2 + Drop</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#">Link Text</a></li>
+        <li><a href="#">Link Text</a></li>
       </ul>
-    </nav>
-	<nav id="mainav" class="fl_center">
-      <img src = "/textstyle/ElLaboratori.png" style="width:258px;height:54px"> 
     </nav>
     <!-- ################################################################################################ -->
   </header>
@@ -79,37 +81,42 @@ Licence URI: https://www.os- templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row2 bgded" style="background-image:url('images/Rebedor.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/1.png');">
   <div class="overlay">
     <div id="intro" class="clear"> 
       <!-- ################################################################################################ -->
-      <article class="one_quarter first">
-        <h3 class="heading">Galeria </h3>
+      <article class="one_third first">
+        <h3 class="heading">Quisque vehicula urna amet</h3>
         <ul class="nospace">
-            <img src = "images/Galeria.jpg">
+          <li>ullamcorper mauris sit amet</li>
+          <li>sed eget ultricies sem</li>
+          <li>proin quis lacus egestas</li>
+          <li>adipis cing ornare</li>
+          <li>donec luctus convallis rhoncus</li>
         </ul>
-        <p class="link"><a href="pages/gallery.php">Benvingudes!!! &raquo;</a></p>
+        <p class="link"><a href="#">Read More &raquo;</a></p>
       </article>
-      <article class="one_quarter">
-        <h3 class="heading">DAM</h3>
+      <article class="one_third">
+        <h3 class="heading">Aliquam purus urna porta faucibus</h3>
         <ul class="nospace">
-            <img src = "images/DAM.jpg">
+          <li>ullamcorper mauris sit amet</li>
+          <li>sed eget ultricies sem</li>
+          <li>proin quis lacus egestas</li>
+          <li>adipis cing ornare</li>
+          <li>donec luctus convallis rhoncus</li>
         </ul>
-        <p class="link"><a href="/pages/dam.php">Benvinguts!!! &raquo;</a></p>
+        <p class="link"><a href="#">Read More &raquo;</a></p>
       </article>
-      <article class="one_quarter">
-        <h3 class="heading">MEP/MEI</h3>
+      <article class="one_third">
+        <h3 class="heading">Proin ultricies dui leo egestas augue</h3>
         <ul class="nospace">
-            <img src = "images/MEI.jpg">
+          <li>ullamcorper mauris sit amet</li>
+          <li>sed eget ultricies sem</li>
+          <li>proin quis lacus egestas</li>
+          <li>adipis cing ornare</li>
+          <li>donec luctus convallis rhoncus</li>
         </ul>
-        <p class="link"><a href="/pages/mep.php">Benvingudes!!! &raquo;</a></p>
-      </article>
-      <article class="one_quarter">
-        <h3 class="heading">En curs</h3>
-        <ul class="nospace">
-            <img src = "images/XAT.jpg">
-        </ul>
-        <p class="link"><a href="pages/propostes.php">Benvinguts!!! &raquo;</a></p>
+        <p class="link"><a href="#">Read More &raquo;</a></p>
       </article>
       <!-- ################################################################################################ -->
     </div>
@@ -118,13 +125,11 @@ Licence URI: https://www.os- templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-    <!-- 
 <div class="wrapper row3">
   <main class="container clear"> 
-     -->
     <!-- main body -->
     <!-- ################################################################################################ -->
-<!--    <div class="group">
+    <div class="group">
       <div class="one_half first">
         <h2 class="heading btmspace-50">Maecenas libero nunc eu erat</h2>
         <figure id="featuredpost"><img src="images/demo/featured.png" alt="">
@@ -182,23 +187,18 @@ Licence URI: https://www.os- templates.com/template-terms
           </li>
         </ul>
       </div>
-    </div>-->
+    </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
-    <!--
     <div class="clear"></div>
   </main>
 </div>
--->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<!-- 
 <div class="wrapper row4">
   <section id="cta" class="clear"> 
--->
     <!-- ################################################################################################ -->
-<!--
     <div class="center btmspace-50">
       <h2 class="nospace">Donec facilisis volutpat ligula nec egestas.</h2>
       <p class="nospace">Integer varius enim id augue faucibus mattis. Pellentesque scelerisque nibh eu mi convallis, ac feugiat nulla tincidunt.</p>
@@ -206,42 +206,31 @@ Licence URI: https://www.os- templates.com/template-terms
     <div class="group">
       <div class="colour-1 one_half first">
         <article class="group colour-1"> 
--->
           <!-- ################################################################################################ -->
-<!--
           <div class="one_half first"><img src="images/demo/320x220.gif" alt=""></div>
           <div class="one_half">
             <h6 class="heading">Quisque vehicula urna sit amet pulvinar dapibus</h6>
             <p class="link"><a class="btn" href="#">Read More &raquo;</a></p>
           </div>
--->
           <!-- ################################################################################################ -->
-<!--
         </article>
       </div>
       <div class="colour-2 one_half">
         <article class="group colour-2"> 
--->
           <!-- ################################################################################################ -->
-<!--
           <div class="one_half first"><img src="images/demo/320x220.gif" alt=""></div>
           <div class="one_half">
             <h6 class="heading">Integer varius enim id augue faucibus mattis.</h6>
             <p class="link"><a class="btn" href="#">Read More &raquo;</a></p>
           </div>
--->
           <!-- ################################################################################################ -->
-<!--
         </article>
       </div>
     </div>
--->
     <!-- ################################################################################################ -->
-<!--
     <div class="clear"></div>
   </section>
 </div>
--->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -249,35 +238,35 @@ Licence URI: https://www.os- templates.com/template-terms
   <footer id="footer" class="clear"> 
     <!-- ################################################################################################ -->
     <div class="one_half first">
-      <h6 class="title">Benvingudes al Laboratori</h6>
-      <p class="nospace btmspace-30">El Laboratori és l'espai per a totes aquelles que fan viure a les seves alumnes experiències d’aprenentatge gratificants usant elements de joc dins les nostres aules.</p>
+      <h6 class="title">Lorem ipsum dolor</h6>
+      <p class="nospace btmspace-30">Donec sed ultrices eros. Nulla facilisi. Aliquam purus urna, porta non faucibus nec, luctus vitae ante. Suspendisse potenti. Morbi sollicitudin viverra urna, vel auctor purus volutpat vel.</p>
       <ul class="nospace">
         <li class="btmspace-10">
           <address>
-          <span class="fa fa-map-marker"></span> Pujada de Sant Domènec, 9 &amp; Girona, 17004
+          <span class="fa fa-map-marker"></span> Street Name &amp; Number, Town, Postcode/Zip
           </address>
         </li>
-        <li class="btmspace-10"><span class="fa fa-phone"></span> 65 75 85 266</li>
-        <li><span class="fa fa-envelope-o"></span> jferna6@xtec.cat</li>
+        <li class="btmspace-10"><span class="fa fa-phone"></span> +00 (123) 456 7890</li>
+        <li><span class="fa fa-envelope-o"></span> info@domain.com</li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="title">Enllaços directes</h6>
+      <h6 class="title">Quick Links</h6>
       <ul class="nospace linklist">
-        <li><a href="index.html">Inici</a></li>
-        <li><a href="pages/gallery.php">Galeria</a></li>
-        <li><a href="pages/dam.php">DAM</a></li>
-        <li><a href="pages/mep.php">MEP/MEI</a></li>
-        <li><a href="/pages/propostes.php">En curs</a></li>
+        <li><a href="#">Home Page</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact Us</a></li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="title">Mail de Contacte</h6>
+      <h6 class="title">Keep in Touch</h6>
       <form class="btmspace-50" method="post" action="#">
         <fieldset>
           <legend>Newsletter:</legend>
           <input class="btmspace-15" type="text" value="" placeholder="Email">
-          <button type="submit" value="submit">Envia</button>
+          <button type="submit" value="submit">Submit</button>
         </fieldset>
       </form>
       <ul class="faico clear">
@@ -299,8 +288,8 @@ Licence URI: https://www.os- templates.com/template-terms
 <div class="wrapper row6">
   <div id="copyright" class="clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2019 - All Rights Reserved - <a href="#">ellaboratori.cat</a></p>
-    <p class="fl_right"><a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">InsPalamós-FEP</a></p>
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
     <!-- ################################################################################################ -->
   </div>
 </div>
