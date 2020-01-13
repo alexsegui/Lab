@@ -72,7 +72,7 @@ s0.parentNode.insertBefore(s1,s0);
             <ul class="nospace linklist"> 
                 <li><a href="#">Comunicat</a></li>
                 <li><a href="/pages/full-width.php">Xat</a></li>
-                <li><a href="/pages/tutorials/Tutorials/tutorialsindex.html">Tutorials</a></li>
+                <li><a href="/pages/tutorials/Tutorials/tutorialsindex.php">Tutorials</a></li>
             </ul>
         </div>
     <!-- ################################################################################################ -->
