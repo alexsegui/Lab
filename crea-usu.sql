@@ -43,6 +43,8 @@ CREATE TABLE avatar (cod varchar(2) not null primary key, nom varchar(15), cami 
 DELETE FROM usuaris where ninot < 49;
 UPDATE avatar SET stat=false where cod < 49;
 
+INSERT INTO usuaris (nom, passw, ninot, grup) VALUES ("NOM", "PASSW", 00, "PRO");
+
 //Copia de seguretat i restauració  de bbdd 
 
 mysqldump -u web -p --opt web > bkp-db-web.sql
