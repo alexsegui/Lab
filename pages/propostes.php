@@ -116,7 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Monestir Ripoll Scape </h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- El nostre escape room es portarà a la pràctica en una escola de Ripoll, tot i que també
                             seria adient portar-lo a altres escoles de la comarca del Ripollès. El target són els nens
@@ -130,9 +130,9 @@ Licence URI: https://www.os-templates.com/template-terms
                             sala han d'aconseguir una pista per saber qui és el culpable de tot plegat, i saber quina
                             és la porta, o opció per poder-ne sortir. Per tant en cada una de les sales hi ha dues
                             activitats educatives a realitzar.<br><br>
-                            Com a punt important, informar que el videojoc es fa a través d'imatges 360o.<br><br>
-                        	- Preguntes preparades per primaria (cicle superior) <br><br>
-                        	- Escape Room 3D <br><br>
+                            Com a punt important, informar que el videojoc es fa a través d'imatges 360&#176.<br><br>
+                        	- Preguntes preparades per primaria (cicle superior).<br><br>
+                        	- Escape Room 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -154,7 +154,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Co-Scape Room</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/07.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- La nostra primera idea de joc era simular un scaperoom on, a partir de la resolució de
                             diferents problemes matemàtics, el jugador aconseguiria pistes per poder sortir de
@@ -175,8 +175,8 @@ Licence URI: https://www.os-templates.com/template-terms
                             El nostre prototip de joc s’ha fet amb el CoSpaces i es pot veure en el següent enllaç:
                             <a href="https://cospac.es/9Uoc">https://cospac.es/9Uoc</a><br><br>
                                                         
-                        	- Preguntes preparades per infantil i primaria<br><br>
-                        	- Escape Room 3D<br><br>
+                        	- Preguntes preparades per infantil i primaria.<br><br>
+                        	- Escape Room 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -197,7 +197,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">The secret maze</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/40.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- El nostre videojocestà contextualitzat a un bosc, concretament a un laberint. En aquest hi ha
                             un gat i nosaltres som un ratolí. Com ja sabeu, als gats els hi encanten els ratolins. D’aquesta
@@ -207,9 +207,9 @@ Licence URI: https://www.os-templates.com/template-terms
                             endavant!! Per desbloquejar-les haurà de resoldre alguns enigmes... uns de mes fàcils i altres
                             de mes difícils!<br><br>
                             
-                        	- Preguntes preparades per infantil i primaria<br><br>
+                        	- Preguntes preparades per infantil i primaria.<br><br>
                             
-                        	- Joc amb tecnologia 3D<br><br>
+                        	- Joc amb tecnologia 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -218,7 +218,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC Laberint      _____________________________________________ -->
 
-        <!-- ______________________________________________     I JOC Wally     ___________________________________________ -->
+ <!-- ______________________________________________     I JOC Wally     ___________________________________________ -->
 
      	<div class="fila row2 bgded">
 
@@ -230,7 +230,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Buscando a Wally</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/Buit1-2-3-4-5.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
 						<p align="justify">
 							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
                             en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
@@ -250,9 +250,9 @@ Licence URI: https://www.os-templates.com/template-terms
                             també quants jugadors, i poder posar el nom,
                             jugaran aquell paisatge.<br><br>
                             
-                        	- Orientat a infantil i prim&agrave;ria<br><br>
+                        	- Orientat a infantil i prim&agrave;ria.<br><br>
                             
-                            - Joc amb tecnologia 2D<br><br>
+                            - Joc amb tecnologia 2D.<br><br>
 
                     	</p>
                 	</ul>
@@ -290,35 +290,6 @@ Licence URI: https://www.os-templates.com/template-terms
 
 <!-- ___________________________________________________     F JOC PLANTES      ________________________________________________ -->
 
-
-<!-- ______________________________________________     I JOC Create and Destroy     ___________________________________________ -->
-
-     	<div class="fila row2 bgded">
-
-        	<div class="col-6">
-            	<figure><img src="/images/catapulta.jpg" alt="Imatge del joc de la catapulta." style="width:550px; height: 550px"></figure>
-        	</div>
-        
-        	<div class="col-6">
-            	<article>
-                	<h3 align="center">Create and Destroy</h3>
-                	<ul>
-
-                 <p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-						<p align="justify">
-							- Crea la teva ciutat i destrueix la del teu company.<br><br>
-							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
-                        	- Orientat a infantil i prim&agrave;ria, i espec&iacute;ficament a secund&agrave;ria en el desenvlupament de la f&iacute;sica.<br><br>
-                    	</p>
-                	</ul>
-            	</article>
-        	</div>
-
-		</div>
-    
- <!-- _____________________________________________     F JOC Create and Destroy     ___________________________________________ -->  
-
-
  <!-- __________________________________________________ I JOC ITINERARI QUíMIC ________________________________________________ --> 
 
     	<div class="fila row2 bgded">
@@ -344,7 +315,90 @@ Licence URI: https://www.os-templates.com/template-terms
     	</div>
 
 <!-- _________________________________________________ F JOC ITINERARI QUíMIC __________________________________________________ -->   
+        
+<!-- ________________________________________________    I GEOGO    _________________________________________________  --> 
 
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/geoGo.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Mineral GO</h3>
+                    
+                	<ul>
+                        <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
+
+                        <p align="justify">
+	                   		- Crea la teva galeria de minerals digital.<br><br>
+	                   		- Fes una foto als minerals de la teva zona, classifica'ls, penja les fotos i espera a que el teu professor te les validi.<br><br>
+	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
+	                   		- Orientat en primaria, secundaria i a la universitat, on han de distingir els diferents tipus de minerals.<br><br>
+                    	</p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC GEOGO      _____________________________________________ -->
+        
+<!-- ________________________________________________    I JOC ELEMENTALS    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/Elementals.jpg" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">ELS ELEMENTALS</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+			        
+                    	<p align="justify">
+                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
+                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
+                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ -->
+        
+<!-- ________________________________________________    I CUBE    _________________________________________________  -->
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/jocDaniM.png" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">CUBE</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="justify">
+                            
+                            - És un joc orientat a la capacitat de relació i percepcio de conceptes que poden tenir els nens en una serie de puzzles | problemes. 
+                              Per iniciar el joc "el cub", has d'entrar i dintre d'aquest cub, ets dintre d'un cub mes petit. L'objectiu es sortir de tots els cubs que composen el cub major mitjançant problemes, endevinalles o relacions lògiques.<br><br>
+                        	- Orientat a secund&agrave;ria i primaria.<br><br>
+                        	- Joc amb tecnologia 3D.<br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F CUBE      _____________________________________________ -->
         
 <!-- _____________________________________________     I JOC LABORATORI QUíMIC    ______________________________________________ --> 
         
@@ -371,8 +425,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
-<!-- _____________________________________________      F JOC LABORATORI QUíMIC      ___________________________________________ --> 
-        
+<!-- _____________________________________________      F JOC LABORATORI QUíMIC      ___________________________________________ -->
         
 <!-- _________________________________________________     I JOC MINECRAFT   _____________________________________________-_____ --> 
 
@@ -402,34 +455,6 @@ Licence URI: https://www.os-templates.com/template-terms
 
 <!-- ________________________________________________      F JOC MINECRAFT      ______________________________________________ --> 
         
-        
-<!-- ________________________________________________    I JOC ELEMENTALS    _________________________________________________ --> 
-
-    	<div class="fila row2 bgded">
-
-        	<div class="col-6">
-            	<figure><img src="/images/Elementals.jpg" alt=" " style="width:550px; height: 450px"></figure>
-        	</div>
-            
-        	<div class="col-6">
-            	<article>
-                	<h3 align="center">ELS ELEMENTALS</h3>
-                	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-			        
-                    	<p align="justify">
-                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
-                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
-                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
-                        </p>
-                	</ul>
-            	</article>
-        	</div>
-
-    	</div>
-
- <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ --> 
-        
 <!-- ________________________________________________    I JOC FiQ Scape    _________________________________________________ --> 
 
     	<div class="fila row2 bgded">
@@ -446,16 +471,15 @@ Licence URI: https://www.os-templates.com/template-terms
                     	<p align="justify">
                     		- Escape room de fisica i quimica. Teniu una hora per resoldre enigmes i escapar del laboratori.<br><br>
                         	- Orientat a 3r ESO Fisica i Quimica.<br><br>
-                        	- RPG, 3D Fisrt Person<br><br>
+                        	- RPG, 3D Fisrt Person.<br><br>
                         </p>
                 	</ul>
             	</article>
         	</div>
     	</div>
 
- <!-- _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->
-        
-        
+ <!-- _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->        
+ 
 <!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________ --> 
 
     	<div class="fila row2 bgded">
@@ -498,11 +522,11 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/69.png" alt="Avatar"></em></p>
                     	<p align="justify">
-                            - 1 contra 1<br><br>
-                    		- Escape room (vida real i vidda virtual) <br><br>
-                            - El joc acaba quan tots els jugadors han acabat les proves. <br><br>
-                        	- Preguntes preparades per cicles (SMX, CAI, DAM, FIP i APD). <br><br>
-                        	- Joc amb tecnologia 2D<br><br>
+                            - 1 contra 1.<br><br>
+                    		- Escape room (vida real i vidda virtual).<br><br>
+                            - El joc acaba quan tots els jugadors han acabat les proves.<br><br>
+                        	- Preguntes preparades per cicles (SMX, CAI, DAM, FIP i APD).<br><br>
+                        	- Joc amb tecnologia 2D.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -526,8 +550,8 @@ Licence URI: https://www.os-templates.com/template-terms
                     	<p align="center"><em><img  src="/images/avatar/58.png" alt="Avatar"><img  src="/images/avatar/64.png" alt="Avatar"></em></p>
                     	<p align="justify">
                     		- Consisteix en un joc en tercera persona, semblant a un scape room. S'haurà de buscar els organs del cos humà i afegir-los en l'ordre correcte. Per poder trobar els organs hauràs de resoldre amb certs enigmes i reptes.<br><br>
-                        	- Preguntes preparades per secundaria (biologia) <br><br>
-                        	- Joc amb tecnologia 3D<br><br>
+                        	- Preguntes preparades per secundaria (biologia).<br><br>
+                        	- Joc amb tecnologia 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
@@ -537,14 +561,36 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC Organ Explorer      _____________________________________________ -->
         
+        
 
+<!-- ______________________________________________     I JOC Create and Destroy     ___________________________________________ 
+
+     	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/catapulta.jpg" alt="Imatge del joc de la catapulta." style="width:550px; height: 550px"></figure>
+        	</div>
         
-        
-        
-        
-        
-        
- <!-- ________________________________________________    I JOC ROL    _______ERIC__________________________________________  
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Create and Destroy</h3>
+                	<ul>
+
+                 <p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+						<p align="justify">
+							- Crea la teva ciutat i destrueix la del teu company.<br><br>
+							- A mesura que se superin reptes, el professor facilitar&agrave; objectes per a la batalla final.<br><br>
+                        	- Orientat a infantil i prim&agrave;ria, i espec&iacute;ficament a secund&agrave;ria en el desenvlupament de la f&iacute;sica.<br><br>
+                    	</p>
+                	</ul>
+            	</article>
+        	</div>
+
+		</div>
+    
+  _____________________________________________     F JOC Create and Destroy     ___________________________________________ -->  
+
+ <!-- ________________________________________________    I JOC ROL    _________________________________________________  
 
     	<div class="fila row2 bgded">
 
@@ -570,34 +616,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC ROL      _____________________________________________ --> 
         
-        
- <!-- ________________________________________________    I GEOGO    _______TONI__________________________________________  
-
-    	<div class="fila row2 bgded">
-
-        	<div class="col-6">
-            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
-        	</div>
-            
-        	<div class="col-6">
-            	<article>
-                	<h3 align="center">GEOGO</h3>
-                	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-                    	<p align="justify">
-                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
-                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
-                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
-                        </p>
-                	</ul>
-            	</article>
-        	</div>
-
-    	</div>
-
- <!-- _______________________________________________      F JOC GEOGO      _____________________________________________ --> 
-        
- <!-- ________________________________________________    I QUIZ    _______ARTURO__________________________________________  
+ <!-- ________________________________________________    I QUIZ    _________________________________________________  
 
     	<div class="fila row2 bgded">
 
@@ -622,35 +641,6 @@ Licence URI: https://www.os-templates.com/template-terms
     	</div>
 
  <!-- _______________________________________________      F JOC QUIZ      _____________________________________________ --> 
-        
-        
- <!-- ________________________________________________    I CUBE    _______DANI M__________________________________________  
-
-    	<div class="fila row2 bgded">
-
-        	<div class="col-6">
-            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
-        	</div>
-            
-        	<div class="col-6">
-            	<article>
-                	<h3 align="center">CUBE</h3>
-                	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
-                    	<p align="justify">
-                    		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
-                        	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
-                        	- Joc multijugador, cooperatiu, basat en realitat augmentada.<br><br>
-                        </p>
-                	</ul>
-            	</article>
-        	</div>
-
-    	</div>
-
- <!-- _______________________________________________      F CUBE      _____________________________________________ -->
-        
-        
 
 <!-- ########################<div class="overlay">#################################################### -->
 <!-- JAVASCRIPTS -->
