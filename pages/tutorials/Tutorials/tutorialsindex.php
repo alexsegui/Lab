@@ -74,7 +74,7 @@ Licence URI: https://www.os-templates.com/template-terms
 		 <li><a class="active" href="/pages/dam.php">DAM/SMX</a></li>
 		<li><a class="active" href="/pages/mep.php">MEP/MEI</a>
         </li>       
-        <li><a href="/pages/propostes.php">Propostes</a></li>
+        <li><a href="/pages/propostes.php">En curs</a></li>
       </ul>
     </nav>
 	<nav id="mainav" class="fl_center">
