@@ -130,8 +130,18 @@ Licence URI: https://www.os-templates.com/template-terms
             <li><a href="ivan.php">PLANE SIMULATION</a></li>
             <li><a href="julia.php">AR TRUMP</a></li>
             <li><a href="arturo.php">BASE DE DADES EN UNITY</a></li>
-            <li><a href="dania.php">MULTIPLAYER</a></li>
+            <li><a href="dania.php">JOC MULTIPLAYER</a></li>
             <li><a href="mingoscripts.php">PROGRAMACIÓ DE VIDEOJOC BÀSICA EN C #</a></li>
+            <li><a href="dialoguesystem.php">SIMPLE DIALOGUE SYSTEM</a></li>
+            <li><a href="minimap.php">MINIMAP TUTORIAL</a></li>
+            <li><a href="xat.php">CHAT TUTORIAL</a></li>
+            <li><a href="3dcharacterselection.php">3D CHARACTER SELECTION</a></li>
+            <li><a href="2dcharacterselection.php">2D CHARACTER SELECTION</a></li>
+            <li><a href="multiplayer.php">MENU MULTIPLAYER</a></li>
+            <li><a href="github.php">GITHUB EN UNITY</a></li>
+            <li><a href="menus.php">TUTORIAL START MENU/SETTINGS MENU/SAVE/LOAD SYSTEM</a></li>
+            <li><a href="gps.php">GPS EN UNITY</a></li>
+            <li><a href="navmesh.php">NAV MESH TUTORIAL</a></li>
           </ul>
         </article>
       </div>
