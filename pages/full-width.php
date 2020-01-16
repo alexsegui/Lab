@@ -9,8 +9,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <?php session_start(); ?>
 <html>
 <head>
-<!-- ################################## xat #################  -->
-<!-- '''html    -->
+<!-- ################################## xat #################  
+
   <script src="/phpfreechat-2.1.0/client/lib/jquery-1.8.2.min.js" type="text/javascript"></script>
     
   <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.0/client/themes/carbon/jquery.phpfreechat.min.css" />
@@ -102,10 +102,13 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
+	<!-- ###############################      XAT        ############################################# -->
+	
+	
 <!--  <main class="container clear"> -->
     <!-- main body -->
     <!-- ###############################      XAT        ############################################# -->
- <!--Start of Tawk.to Script-->
+ <!--Start of Tawk.to Script
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -123,13 +126,24 @@ s0.parentNode.insertBefore(s1,s0);
 </div>    
     
 <div class="wrapper row4">
+ <div id="copyright" class="clear"> 	
+	 <p class="fl_left">(TSUNAMI) Tots Som Un, Nom&eacute;s Amb Ments Inquietes </p>
+    <p class="fl_right">Ajudem a reconnectar la ment dels nostres joves</p>
+	
+	<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es"><img src="../images/telegram.png" alt=""></a>
+	</div>
  
 </div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row5">
- 
+ <figure>
+          <header class="heading">PER CONNECTAR ALS NOSTRES GRUPS SECRETS</header>
+          <ul class="nospace clear">
+            <li class="one_quarter first"><a href="https://t.me/joinchat/EfEtLhbnWcu1Eohq0a4IWA"><img src="../images/telegram.png" alt=""></a></li>
+ 			</ul>
+      </figure>
 </div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->

@@ -27,7 +27,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
 		<?php $avat = $_SESSION['avat']; ?>
 
-		<!--Start of Tawk.to Script-->
+		<!--Start of Tawk.to Script
 		<script type="text/javascript">
 
 			var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -116,7 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Monestir Ripoll Scape </h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/teleg2.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- El nostre escape room es portarà a la pràctica en una escola de Ripoll, tot i que també
                             seria adient portar-lo a altres escoles de la comarca del Ripollès. El target són els nens
