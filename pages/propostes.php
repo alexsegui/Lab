@@ -116,7 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Monestir Ripoll Scape </h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/teleg2.png" alt=""></a></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- El nostre escape room es portarà a la pràctica en una escola de Ripoll, tot i que també
                             seria adient portar-lo a altres escoles de la comarca del Ripollès. El target són els nens
@@ -154,7 +154,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Co-Scape Room</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/07.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/07.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- La nostra primera idea de joc era simular un scaperoom on, a partir de la resolució de
                             diferents problemes matemàtics, el jugador aconseguiria pistes per poder sortir de
@@ -197,7 +197,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">The secret maze</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/40.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/40.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- El nostre videojocestà contextualitzat a un bosc, concretament a un laberint. En aquest hi ha
                             un gat i nosaltres som un ratolí. Com ja sabeu, als gats els hi encanten els ratolins. D’aquesta
@@ -230,7 +230,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Buscando a Wally</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 						<p align="justify">
 							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
                             en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
@@ -274,7 +274,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Botanic GO</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/14.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/14.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 					 	<p align="justify">
 	                   		- Crea el teu herbolari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
@@ -302,7 +302,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
-					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/67.png" alt="Avatar"></em></p>
+					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/67.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
                         	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
@@ -329,7 +329,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Mineral GO</h3>
                     
                 	<ul>
-                        <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"></em></p>
+                        <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 
                         <p align="justify">
 	                   		- Crea la teva galeria de minerals digital.<br><br>
@@ -357,7 +357,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/54.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 			        
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
@@ -384,7 +384,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">CUBE</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                             
                             - És un joc orientat a la capacitat de relació i percepcio de conceptes que poden tenir els nens en una serie de puzzles | problemes. 
@@ -412,7 +412,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 	
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
@@ -439,7 +439,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">MINECRAFT</h3>
                 	<ul>
-					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/53.png" alt="Avatar"></em></p>
+					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/53.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
 	      
 						<p align="justify">
@@ -455,7 +455,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
 <!-- ________________________________________________      F JOC MINECRAFT      ______________________________________________ --> 
         
-<!-- ________________________________________________    I JOC FiQ Scape    _________________________________________________ --> 
+<!-- ________________________________________________    I JOC FiQ Scape    _________________________________________________ 
 
     	<div class="fila row2 bgded">
 
@@ -467,7 +467,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">FiQ Scape</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/68.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/68.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- Escape room de fisica i quimica. Teniu una hora per resoldre enigmes i escapar del laboratori.<br><br>
                         	- Orientat a 3r ESO Fisica i Quimica.<br><br>
@@ -478,9 +478,9 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
     	</div>
 
- <!-- _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->        
+ _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->        
  
-<!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________ --> 
+<!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________  
 
     	<div class="fila row2 bgded">
 
@@ -492,7 +492,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">EndoGame</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/55.png" alt="Avatar"><img  src="/images/avatar/62.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/55.png" alt="Avatar"><img  src="/images/avatar/62.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- EndoGame és un joc que es tracta en el rescat de Emily, emily està atrapada per zombies després d'un
                             apocalipsis, el seu millor amic Endo haurà de lluitar pel seu rescat en el qual tindrá que enfrontar-se
@@ -506,7 +506,7 @@ Licence URI: https://www.os-templates.com/template-terms
 
     	</div>
 
- <!-- _______________________________________________      F JOC ENDOGAME      _____________________________________________ -->
+ _______________________________________________      F JOC ENDOGAME      _____________________________________________ -->
         
 <!-- ________________________________________________    I JOC Scape Finalistes    _________________________________________________ --> 
 
@@ -520,7 +520,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Scape Finalistes</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/69.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/NeusOK.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                             - 1 contra 1.<br><br>
                     		- Escape room (vida real i vidda virtual).<br><br>
@@ -547,7 +547,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Organ Explorer</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/58.png" alt="Avatar"><img  src="/images/avatar/64.png" alt="Avatar"></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/58.png" alt="Avatar"><img  src="/images/avatar/64.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                     		- Consisteix en un joc en tercera persona, semblant a un scape room. S'haurà de buscar els organs del cos humà i afegir-los en l'ordre correcte. Per poder trobar els organs hauràs de resoldre amb certs enigmes i reptes.<br><br>
                         	- Preguntes preparades per secundaria (biologia).<br><br>
@@ -561,7 +561,31 @@ Licence URI: https://www.os-templates.com/template-terms
 
  <!-- _______________________________________________      F JOC Organ Explorer      _____________________________________________ -->
         
-        
+<!-- ________________________________________________    I JOC enigmes smx    _________________________________________________ --> 
+
+    	<div class="fila row2 bgded">
+
+        	<div class="col-6">
+            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
+        	</div>
+            
+        	<div class="col-6">
+            	<article>
+                	<h3 align="center">Enigmes</h3>
+                	<ul>
+                    	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/50.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                    	<p align="justify">
+                    		- <br><br>
+                        	- <br><br>
+                        	- <br><br>
+                        </p>
+                	</ul>
+            	</article>
+        	</div>
+
+    	</div>
+
+ <!-- _______________________________________________      F JOC enigmes smx     _____________________________________________ -->
 
 <!-- ______________________________________________     I JOC Create and Destroy     ___________________________________________ 
 
