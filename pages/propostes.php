@@ -5,7 +5,7 @@ Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
---> 
+-->
 <?php session_start(); ?>
 <html>
 	<head>
@@ -105,7 +105,6 @@ Licence URI: https://www.os-templates.com/template-terms
 	
         
 <!-- ________________________________________________    I JOC Monestir Ripoll    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -139,11 +138,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F JOC Monestir Ripoll       _____________________________________________ -->
 
+        
 <!-- ________________________________________________    I JOC Co-Scape Room   _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -173,20 +171,19 @@ Licence URI: https://www.os-templates.com/template-terms
                             d’scaperoom, ja que pensem que seria més motivador i dinàmic pels alumnes i els cridaria
                             més l’atenció.<br><br>
                             El nostre prototip de joc s’ha fet amb el CoSpaces i es pot veure en el següent enllaç:
-                            <a href="https://cospac.es/9Uoc">https://cospac.es/9Uoc</a><br><br>
-                                                        
+                            <a href="https://cospac.es/9Uoc">https://cospac.es/9Uoc</a><br><br>                                            
                         	- Preguntes preparades per infantil i primaria.<br><br>
                         	- Escape Room 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
         	</div>
+            
     	</div>
-
  <!-- _______________________________________________      F JOC Co-Scape Room       _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I JOC Laberint    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -206,20 +203,18 @@ Licence URI: https://www.os-templates.com/template-terms
                             Però EP!!!! No és tan fàcil! El nostre ratolí es trobarà moltes portes que li priven de seguir
                             endavant!! Per desbloquejar-les haurà de resoldre alguns enigmes... uns de mes fàcils i altres
                             de mes difícils!<br><br>
-                            
-                        	- Preguntes preparades per infantil i primaria.<br><br>
-                            
+                        	- Preguntes preparades per infantil i primaria.<br><br>                            
                         	- Joc amb tecnologia 3D.<br><br>
                         </p>
                 	</ul>
             	</article>
         	</div>
+            
     	</div>
-
  <!-- _______________________________________________      F JOC Laberint      _____________________________________________ -->
 
+        
  <!-- ______________________________________________     I JOC Wally     ___________________________________________ -->
-
      	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -230,7 +225,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Buscando a Wally</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/16.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 						<p align="justify">
 							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
                             en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
@@ -249,21 +244,18 @@ Licence URI: https://www.os-templates.com/template-terms
                             de trobar i en si estan molt amagats o no. I
                             també quants jugadors, i poder posar el nom,
                             jugaran aquell paisatge.<br><br>
-                            
                         	- Orientat a infantil i prim&agrave;ria.<br><br>
-                            
                             - Joc amb tecnologia 2D.<br><br>
-
                     	</p>
                 	</ul>
             	</article>
         	</div>
+            
 		</div>
-    
  <!-- _____________________________________________     F JOC Wally     ___________________________________________ -->  
         
+        
 <!-- ___________________________________________________     I JOC PLANTES      ________________________________________________ -->
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -276,22 +268,20 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/14.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
 					 	<p align="justify">
-	                   		- Crea el teu herbolari digital.<br><br>
+	                   		- Crea el teu herbari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
 	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
 	                   		- Orientat en educaci&oacute; infantil on han de distingir planta, tija, arrel, flor, fruits... passant per prim&agrave;ria on estudien els tipus de plantes, arribant fins a secund&agrave;ria i a la universitat.<br><br>
                     	</p>
                 	</ul>
-					
             	</article>
         	</div>  
 
    		</div>
-
 <!-- ___________________________________________________     F JOC PLANTES      ________________________________________________ -->
 
+        
  <!-- __________________________________________________ I JOC ITINERARI QUíMIC ________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -313,11 +303,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
 <!-- _________________________________________________ F JOC ITINERARI QUíMIC __________________________________________________ -->   
         
+        
 <!-- ________________________________________________    I GEOGO    _________________________________________________  --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -326,11 +315,9 @@ Licence URI: https://www.os-templates.com/template-terms
             
         	<div class="col-6">
             	<article>
-                	<h3 align="center">Mineral GO</h3>
-                    
+                	<h3 align="center">GeoGO</h3>
                 	<ul>
-                        <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-
+                        <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/70.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                         <p align="justify">
 	                   		- Crea la teva galeria de minerals digital.<br><br>
 	                   		- Fes una foto als minerals de la teva zona, classifica'ls, penja les fotos i espera a que el teu professor te les validi.<br><br>
@@ -342,11 +329,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F JOC GEOGO      _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I JOC ELEMENTALS    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -358,7 +344,6 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/54.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-			        
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
                         	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
@@ -369,11 +354,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F JOC ELEMENTALS      _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I CUBE    _________________________________________________  -->
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -384,9 +368,8 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">CUBE</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/PdteMEP.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/71.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
-                            
                             - És un joc orientat a la capacitat de relació i percepcio de conceptes que poden tenir els nens en una serie de puzzles | problemes. 
                               Per iniciar el joc "el cub", has d'entrar i dintre d'aquest cub, ets dintre d'un cub mes petit. L'objectiu es sortir de tots els cubs que composen el cub major mitjançant problemes, endevinalles o relacions lògiques.<br><br>
                         	- Orientat a secund&agrave;ria i primaria.<br><br>
@@ -397,11 +380,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F CUBE      _____________________________________________ -->
         
-<!-- _____________________________________________     I JOC LABORATORI QUíMIC    ______________________________________________ --> 
         
+<!-- _____________________________________________     I JOC LABORATORI QUíMIC    ______________________________________________ --> 
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -413,7 +395,6 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">LABORATORI QU&Iacute;MIC</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/61.png" alt="Avatar"><img  src="/images/avatar/63.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-	
                     	<p align="justify">
                     		- Est&agrave;s en un laboratori i has d'aconseguir sortir. Interactua amb els objectes que t'envolten.<br><br>
                         	- Orientat a secund&agrave;ria.<br><br>
@@ -424,11 +405,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
 <!-- _____________________________________________      F JOC LABORATORI QUíMIC      ___________________________________________ -->
         
+        
 <!-- _________________________________________________     I JOC MINECRAFT   _____________________________________________-_____ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -441,7 +421,6 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<ul>
 					<p align="center"><em><img  src="/images/avatar/59.png" alt="Avatar"><img  src="/images/avatar/53.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
-	      
 						<p align="justify">
                     		- Aconsegueix sueprar nivells a partir de construir i destruir objectes.<br><br>
                         	- Orientat a prim&agrave;ria.<br><br>
@@ -452,11 +431,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
 <!-- ________________________________________________      F JOC MINECRAFT      ______________________________________________ --> 
         
+        
 <!-- ________________________________________________    I JOC FiQ Scape    _________________________________________________ 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -477,11 +455,10 @@ Licence URI: https://www.os-templates.com/template-terms
             	</article>
         	</div>
     	</div>
-
  _______________________________________________      F JOC FiQ Scape      _____________________________________________ -->        
  
+        
 <!-- ________________________________________________    I JOC ENDOGAME    _________________________________________________  
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -505,11 +482,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  _______________________________________________      F JOC ENDOGAME      _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I JOC Scape Finalistes    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -520,7 +496,7 @@ Licence URI: https://www.os-templates.com/template-terms
             	<article>
                 	<h3 align="center">Scape Finalistes</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/NeusOK.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/60.png" alt="Avatar"><img  src="/images/avatar/NeusOK.png" alt="Avatar"><img  src="/images/avatar/69.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
                             - 1 contra 1.<br><br>
                     		- Escape room (vida real i vidda virtual).<br><br>
@@ -531,12 +507,12 @@ Licence URI: https://www.os-templates.com/template-terms
                 	</ul>
             	</article>
         	</div>
+            
     	</div>
-
  <!-- _______________________________________________      F JOC Scape Finalistes      _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I JOC Organ Explorer    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -558,11 +534,10 @@ Licence URI: https://www.os-templates.com/template-terms
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F JOC Organ Explorer      _____________________________________________ -->
         
+        
 <!-- ________________________________________________    I JOC enigmes smx    _________________________________________________ --> 
-
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
@@ -571,21 +546,39 @@ Licence URI: https://www.os-templates.com/template-terms
             
         	<div class="col-6">
             	<article>
-                	<h3 align="center">Enigmes</h3>
+                	<h3 align="center">Copa Cangur</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/50.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
-                    		- <br><br>
-                        	- <br><br>
-                        	- <br><br>
+                    		-  <br><br>
+                        	-  <br><br>
+                        	-  <br><br>
                         </p>
                 	</ul>
             	</article>
         	</div>
 
     	</div>
-
  <!-- _______________________________________________      F JOC enigmes smx     _____________________________________________ -->
+
+
+<!-- ########################<div class="overlay">#################################################### -->
+<!-- JAVASCRIPTS -->
+    	<script src="layout/scripts/jquery.min.js"></script> 
+    	<script src="layout/scripts/jquery.mobilemenu.js"></script>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ______________________________________________     I JOC Create and Destroy     ___________________________________________ 
 
@@ -665,10 +658,3 @@ Licence URI: https://www.os-templates.com/template-terms
     	</div>
 
  <!-- _______________________________________________      F JOC QUIZ      _____________________________________________ --> 
-
-<!-- ########################<div class="overlay">#################################################### -->
-<!-- JAVASCRIPTS -->
-    	<script src="layout/scripts/jquery.min.js"></script> 
-    	<script src="layout/scripts/jquery.mobilemenu.js"></script>
-	</body>
-</html>
