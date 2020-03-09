@@ -116,6 +116,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Monestir Ripoll Scape </h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/65.png" alt="Avatar"><img  src="/images/avatar/01.png" alt="Avatar"><img  src="/images/avatar/21.png" alt="Avatar"><img  src="/images/avatar/10.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/mingo/index.html">PROVA EL JOC</a></p>
                     	<p align="justify">
                     		- El nostre escape room es portarà a la pràctica en una escola de Ripoll, tot i que també
                             seria adient portar-lo a altres escoles de la comarca del Ripollès. El target són els nens
@@ -131,7 +132,7 @@ Licence URI: https://www.os-templates.com/template-terms
                             activitats educatives a realitzar.<br><br>
                             Com a punt important, informar que el videojoc es fa a través d'imatges 360&#176.<br><br>
                         	- Preguntes preparades per primaria (cicle superior).<br><br>
-                        	- Escape Room 3D.<br><br>
+                        	- Escape Room 3D.
                         </p>
                 	</ul>
             	</article>
@@ -153,6 +154,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Co-Scape Room</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/07.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/JUEGO%20IVAN.zip">PROVA EL JOC</a></p>
                     	<p align="justify">
                     		- La nostra primera idea de joc era simular un scaperoom on, a partir de la resolució de
                             diferents problemes matemàtics, el jugador aconseguiria pistes per poder sortir de
@@ -173,7 +175,7 @@ Licence URI: https://www.os-templates.com/template-terms
                             El nostre prototip de joc s’ha fet amb el CoSpaces i es pot veure en el següent enllaç:
                             <a href="https://cospac.es/9Uoc">https://cospac.es/9Uoc</a><br><br>                                            
                         	- Preguntes preparades per infantil i primaria.<br><br>
-                        	- Escape Room 3D.<br><br>
+                        	- Escape Room 3D.
                         </p>
                 	</ul>
             	</article>
@@ -195,7 +197,8 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">The secret maze</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/40.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-                    	<p align="justify">
+                    	<p><a href="/webGL2/">PROVA EL JOC</a></p>
+                        <p align="justify">
                     		- El nostre videojocestà contextualitzat a un bosc, concretament a un laberint. En aquest hi ha
                             un gat i nosaltres som un ratolí. Com ja sabeu, als gats els hi encanten els ratolins. D’aquesta
                             manera, l’objectiu del nostre protagonista és poder escapar d’aquest laberint per poder
@@ -204,8 +207,9 @@ Licence URI: https://www.os-templates.com/template-terms
                             endavant!! Per desbloquejar-les haurà de resoldre alguns enigmes... uns de mes fàcils i altres
                             de mes difícils!<br><br>
                         	- Preguntes preparades per infantil i primaria.<br><br>                            
-                        	- Joc amb tecnologia 3D.<br><br>
+                        	- Joc amb tecnologia 3D.
                         </p>
+                        
                 	</ul>
             	</article>
         	</div>
@@ -226,6 +230,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Buscando a Wally</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/04.png" alt="Avatar"><img  src="/images/avatar/16.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/eric/index.html">PROVA EL JOC</a></p>
 						<p align="justify">
 							- Podria constar de diferents paisatges (la selva, el parc, la neu, la platja, el bosc, la granja, etc.) i
                             en cada un d’ells aparèixer molts elements (com la imatge de sota) i en un costat de la
@@ -245,8 +250,9 @@ Licence URI: https://www.os-templates.com/template-terms
                             també quants jugadors, i poder posar el nom,
                             jugaran aquell paisatge.<br><br>
                         	- Orientat a infantil i prim&agrave;ria.<br><br>
-                            - Joc amb tecnologia 2D.<br><br>
+                            - Joc amb tecnologia 2D.
                     	</p>
+                        
                 	</ul>
             	</article>
         	</div>
@@ -267,12 +273,14 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Botanic GO</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/14.png" alt="Avatar"><img  src="/images/avatar/56.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/PlantGo.apk">PROVA EL JOC</a></p>
 					 	<p align="justify">
 	                   		- Crea el teu herbari digital.<br><br>
 	                   		- Fes una foto a les plantes de la teva zona, classifica-les, penja-les i espera a que el teu professor te les validi.<br><br>
 	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
-	                   		- Orientat en educaci&oacute; infantil on han de distingir planta, tija, arrel, flor, fruits... passant per prim&agrave;ria on estudien els tipus de plantes, arribant fins a secund&agrave;ria i a la universitat.<br><br>
+	                   		- Orientat en educaci&oacute; infantil on han de distingir planta, tija, arrel, flor, fruits... passant per prim&agrave;ria on estudien els tipus de plantes, arribant fins a secund&agrave;ria i a la universitat.
                     	</p>
+                        
                 	</ul>
             	</article>
         	</div>  
@@ -293,11 +301,13 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Itinerari Qu&iacute;mic</h3>
                 	<ul>
 					<p align="center"><em><img  src="/images/avatar/66.png" alt="Avatar"><img  src="/images/avatar/67.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/itinQuimic2.apk">PROVA EL JOC</a></p>
                     	<p align="justify">
                     		- Apr&egrave;n qu&iacute;mica recorrent 16 racons de Girona.<br><br>
                         	- Orientat a secund&agrave;ria (3r i 4t eso). Per&ograve; tamb&eacute; pot ser per a universitat o prim&agrave;ria.<br><br>
-                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de visitar i tamb&eacute; geolocalitzarem la posici&oacute; del dispositiu.<br><br>
+                        	- Un recorregut on ens trobarem realitat augmentada a cada un dels 16 punts que haurem de visitar i tamb&eacute; geolocalitzarem la posici&oacute; del dispositiu.
                         </p>
+                        
                 	</ul>
             	</article>
         	</div>
@@ -318,12 +328,14 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">GeoGO</h3>
                 	<ul>
                         <p align="center"><em><img  src="/images/avatar/23.png" alt="Avatar"><img  src="/images/avatar/70.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/GeoGo.apk">PROVA EL JOC</a></p>
                         <p align="justify">
 	                   		- Crea la teva galeria de minerals digital.<br><br>
 	                   		- Fes una foto als minerals de la teva zona, classifica'ls, penja les fotos i espera a que el teu professor te les validi.<br><br>
 	                   		- Joc basat en realitat augmentada i geolocalitzat.<br><br>
-	                   		- Orientat en primaria, secundaria i a la universitat, on han de distingir els diferents tipus de minerals.<br><br>
+	                   		- Orientat en primaria, secundaria i a la universitat, on han de distingir els diferents tipus de minerals.
                     	</p>
+                        
                 	</ul>
             	</article>
         	</div>
@@ -369,12 +381,14 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">CUBE</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/15.png" alt="Avatar"><img  src="/images/avatar/71.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/danim.zip">PROVA EL JOC</a></p>
                     	<p align="justify">
                             - És un joc orientat a la capacitat de relació i percepcio de conceptes que poden tenir els nens en una serie de puzzles | problemes. 
                               Per iniciar el joc "el cub", has d'entrar i dintre d'aquest cub, ets dintre d'un cub mes petit. L'objectiu es sortir de tots els cubs que composen el cub major mitjançant problemes, endevinalles o relacions lògiques.<br><br>
                         	- Orientat a secund&agrave;ria i primaria.<br><br>
-                        	- Joc amb tecnologia 3D.<br><br>
+                        	- Joc amb tecnologia 3D.
                         </p>
+                        
                 	</ul>
             	</article>
         	</div>
