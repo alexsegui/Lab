@@ -541,18 +541,16 @@ Licence URI: https://www.os-templates.com/template-terms
     	<div class="fila row2 bgded">
 
         	<div class="col-6">
-            	<figure><img src="/images/" alt=" " style="width:550px; height: 450px"></figure>
+            	<figure><img src="/images/copaCangur.png" alt=" " style="width:550px; height: 450px"></figure>
         	</div>
             
         	<div class="col-6">
             	<article>
                 	<h3 align="center">Copa Cangur</h3>
                 	<ul>
-                    	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/50.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                    	<p align="center"><em><img  src="/images/avatar/57.png" alt="Avatar"><img  src="/images/avatar/72.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
                     	<p align="justify">
-                    		-  <br><br>
-                        	-  <br><br>
-                        	-  <br><br>
+                    		-  Joc per a la Copa Cangur<br><br>
                         </p>
                 	</ul>
             	</article>
