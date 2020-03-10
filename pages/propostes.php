@@ -154,7 +154,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">Co-Scape Room</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/07.png" alt="Avatar"><img  src="/images/avatar/05.png" alt="Avatar"><img  src="/images/avatar/28.png" alt="Avatar"><img  src="/images/avatar/38.png" alt="Avatar"><img  src="/images/avatar/11.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-                        <p><a href="/webGL2/JUEGO%20IVAN.zip">PROVA EL JOC</a></p>
+                        <p><a href="/webGL2/ivan.zip">PROVA EL JOC</a></p>
                     	<p align="justify">
                     		- La nostra primera idea de joc era simular un scaperoom on, a partir de la resolució de
                             diferents problemes matemàtics, el jugador aconseguiria pistes per poder sortir de
@@ -197,7 +197,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">The secret maze</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/40.png" alt="Avatar"><img  src="/images/avatar/37.png" alt="Avatar"><img  src="/images/avatar/27.png" alt="Avatar"><img  src="/images/avatar/41.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
-                    	<p><a href="/webGL2/">PROVA EL JOC</a></p>
+                    	<p><a href="/webGL2/jocsan.zip">PROVA EL JOC</a></p>
                         <p align="justify">
                     		- El nostre videojocestà contextualitzat a un bosc, concretament a un laberint. En aquest hi ha
                             un gat i nosaltres som un ratolí. Com ja sabeu, als gats els hi encanten els ratolins. D’aquesta
