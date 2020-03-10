@@ -356,6 +356,7 @@ Licence URI: https://www.os-templates.com/template-terms
                 	<h3 align="center">ELS ELEMENTALS</h3>
                 	<ul>
                     	<p align="center"><em><img  src="/images/avatar/29.png" alt="Avatar"><img  src="/images/avatar/54.png" alt="Avatar"><a href="https://chat.whatsapp.com/LsPRNESiqck0xptRoAVDPW"><img src="../images/whatsappok.png" alt=""></a></em></p>
+                        <p><a href="/webGL2/dania.apk">PROVA EL JOC</a></p>
                     	<p align="justify">
                     		- Converteix-te en un element de la taula peri&ograve;dica, crea mol·l&egrave;cules i reacciona amb els teus companys.<br><br>
                         	- Orientat a secund&agrave;ria (3r ESO). L'&agrave;tom, enllaços qu&iacute;mics, estequiometria i reaccions qu&iacute;miques.<br><br>
